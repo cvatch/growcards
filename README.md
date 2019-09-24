@@ -1,4 +1,4 @@
-# Project:Growcards Info
+# Growcards Info
 
 I have started to use the Streamlabs Chatbot to create a "Pick a card" game-of-sorts. By using the !pick command, the bot will pull from a list of possibilies and ask the chat to answer a question or perform a task. Recently discovered how to get the bot to read a random line from a .txt file. I figured this made it extremely easy to contribute, so I would put it up here incase anyone was interested. 
 
