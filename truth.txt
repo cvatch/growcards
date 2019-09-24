@@ -1,0 +1,529 @@
+﻿$randextra answer this question: Describe your most recent romantic encounter.
+$randextra answer this question: Have you ever cheated or been cheated on?
+$randextra answer this question: Have you ever crapped your pants since you were a child?
+$randextra answer this question: Have you ever let someone take the blame for something you did?
+$randextra answer this question: Is it true that you (whatever you or the group suspects they do / did)?
+$randextra answer this question: Tell me about the last time someone unexpectedly walked in on you while you were naked.
+$randextra answer this question: Tell me about your first kiss.
+$randextra answer this question: Tell me about your most awkward date.
+$randextra answer this question: Tell us your most embarrassing vomit story.
+$randextra answer this question: What are you most self-conscious about?
+$randextra answer this question: What bad thing have you done that no one else found out about?
+$randextra answer this question: What do most of your friends think about you that is totally untrue?
+$randextra answer this question: What do you really hope your parents never find out about?
+$randextra answer this question: What is something that people think you would never do but you have?
+$randextra answer this question: What is something that you have never told anyone?
+$randextra answer this question: What is the biggest lie you have ever told?
+$randextra answer this question: What is the grossest thing that has come out of your body?
+$randextra answer this question: What is the grossest thing you have had in your mouth?
+$randextra answer this question: What is the meanest you have been to someone that didn’t deserve it?
+$randextra answer this question: What is the most childish thing you still do?
+$randextra answer this question: What is the most disgusting habit you have?
+$randextra answer this question: What is the most embarrassing nickname you have ever had?
+$randextra answer this question: What is the most embarrassing photo you have on your phone?
+$randextra answer this question: What is the most embarrassing picture of you?
+$randextra answer this question: What is the most embarrassing thing in your room?
+$randextra answer this question: What is the most embarrassing thing you have put up on social media?
+$randextra answer this question: What is the most embarrassing thing your parents have caught you doing?
+$randextra answer this question: What is the most expensive thing you have stolen?
+$randextra answer this question: What is the scariest dream you have ever had?
+$randextra answer this question: What is the silliest thing you have an emotional attachment to?
+$randextra answer this question: What is the stupidest thing you have ever done?
+$randextra answer this question: What is the weirdest thing you have done for a boyfriend or girlfriend?
+$randextra answer this question: What is your biggest regret?
+$randextra answer this question: What is your deepest darkest fear?
+$randextra answer this question: What lie have you told that hurt someone?
+$randextra answer this question: What secret about yourself did you tell someone in confidence and then they told a lot of other people?
+$randextra answer this question: What terrible thing have you done that you lied to cover up?
+$randextra answer this question: What was the cruelest joke you played on someone?
+$randextra answer this question: What was the most awkward romantic encounter you have had?
+$randextra answer this question: What was the worst encounter you had with a police officer?
+$randextra answer this question: What would you do if you were the opposite sex for a month?
+$randextra answer this question: When was the last time you peed in bed?
+$randextra answer this question: When was the last time you picked your nose without a tissue?
+$randextra answer this question: When was the most inappropriate time you farted?
+$randextra answer this question: Where is the strangest place you have peed?
+$randextra answer this question: Who have you loved but they didn’t love you back?
+$randextra answer this question: Who here has the nicest butt?
+$randextra answer this question: Who here would you most like to make out with?
+$randextra answer this question: Who is the person you most regret kissing?
+$randextra answer this question: Who is the sexiest person here?
+$randextra answer this question: Why did you break up with your last boyfriend or girlfriend?
+$randextra decide Would you rather be married to a 10 with a bad personality or a 6 with an amazing personality?
+$randextra decide Would you rather be only able to watch the few movies with a rotten tomatoes score of 95-100% or only be able to watch the majority of movies with a rotten tomatoes score of 94% and lower?
+$randextra decide Would you rather be poor but help people or become incredibly rich by hurting people?
+$randextra decide Would you rather be put in a maximum security federal prison with the hardest of the hardened criminals for one year or be put in a relatively relaxed prison where wall street types are held for ten years?
+$randextra decide Would you rather be reincarnated as a fly or just cease to exist after you die?
+$randextra decide Would you rather be so afraid of heights that you can’t go to the second floor of a building or be so afraid of the sun that you can only leave the house on rainy days?
+$randextra decide Would you rather be the absolute best at something that no one takes seriously or be well above average but not anywhere near the best at something well respected?
+$randextra decide Would you rather be the best in the world at climbing trees or the best in the world at jumping rope?
+$randextra decide Would you rather be the first person to explore a planet or be the inventor of a drug that cures a deadly disease?
+$randextra decide Would you rather be the life of the party and the funniest person your friends know but suffer from depression or be happy and content but people think you are boring and unfunny?
+$randextra decide Would you rather be transported permanently 500 years into the future or 500 years into the past?
+$randextra decide Would you rather be unable to have kids or only be able to conceive quintuplets?
+$randextra decide Would you rather be unable to move your body every time it rains or not be able to stop moving while the sun is out?
+$randextra decide Would you rather be unable to use search engines or unable to use social media?
+$randextra decide Would you rather become twice as strong when both of your fingers are stuck in your ears or crawl twice as fast as you can run?
+$randextra decide Would you rather blink at twice the normal rate or not be able to blink for 5 minutes but then have to close your eyes for 10 seconds every 5 minutes?
+$randextra decide Would you rather die if you didn’t slap a new person on the butt every 12 hours or die if you didn’t kill someone every year?
+$randextra decide Would you rather die in 20 years with no regrets or die in 50 years with many regrets?
+$randextra decide Would you rather donate your body to science or donate your organs to people who need them?
+$randextra decide Would you rather earbuds and headphones never sit right on / in your ears or have all music either slightly too quiet or slightly too loud?
+$randextra decide Would you rather eat a box of dry spaghetti noodles or a cup of uncooked rice?
+$randextra decide Would you rather eat a sandwich made from 4 ingredients in your fridge chosen at random or eat a sandwich made by a group of your friends from 4 ingredients in your fridge?
+$randextra decide Would you rather eat an egg with a half formed chicken inside or eat five cooked cockroaches?
+$randextra decide Would you rather eat rice with every meal or eat bread with every meal?
+$randextra decide Would you rather every shirt you ever wear to be kind of itchy or only be able to use 1 ply toilet paper?
+$randextra decide Would you rather everyone be required to wear identical silver jump suits or any time two people meet and are wearing an identical article of clothing they must fight to the death?
+$randextra decide Would you rather everything you dream each night come true when you wake up or everything a randomly chosen person dreams each night come true when they wake up?
+$randextra decide Would you rather face your fears or forget that you have them?
+$randextra decide Would you rather fight for a cause you believe in but doubt will succeed or fight for a cause that you only partially believe in but have a high chance of your cause succeeding?
+$randextra decide Would you rather find five dollars on the ground or find all of your missing socks?
+$randextra decide Would you rather find your true love or a suitcase with five million dollars inside?
+$randextra decide Would you rather get 5 dollars for every song you sang in public or 50 dollars for every stranger you kiss?
+$randextra decide Would you rather get one free round trip international plane ticket every year or be able to fly domestic anytime for free?
+$randextra decide Would you rather get really tipsy from just one sip of alcohol and ridiculously drunk from just one alcoholic drink or never get drunk no matter how much alcohol you drank?
+$randextra decide Would you rather give up all drinks except for water or give up eating anything that was cooked in an oven?
+$randextra decide Would you rather give up bathing for a month or give up the internet for a month?
+$randextra decide Would you rather give up watching TV / movies for a year or give up playing games for a year?
+$randextra decide Would you rather go back to age 5 with everything you know now or know now everything your future self will learn?
+$randextra decide Would you rather go bald or be forever cursed to have terrible haircuts?
+$randextra decide Would you rather go to jail for 4 years for something you didn’t do or get away with something horrible you did but always live in fear of being caught?
+$randextra decide Would you rather have a boomerang that would find and kill any one person of your choosing, anywhere in the world, but can only be used once or a boomerang that always returns to you with one dollar?
+$randextra decide Would you rather have a bottomless box of Legos or a bottomless gas tank?
+$randextra decide Would you rather have a clown only you can see that follows you everywhere and just stands silently in a corner watching you without doing or saying anything or have a real life stalker who dresses like the Easter bunny that everyone can see?
+$randextra decide Would you rather have a completely automated home or a self-driving car?
+$randextra decide Would you rather have a criminal justice system that actually works and is fair or an administrative government that is free of corruption?
+$randextra decide Would you rather have a cute well behaved child that stays at an age of your choosing for their entire life or a child that develops from a baby to 18 years old in 2 years and then ages normally?
+$randextra decide Would you rather have a flying carpet or a car that can drive underwater?
+$randextra decide Would you rather have a golden voice or a silver tongue?
+$randextra decide Would you rather have a horrible job, but be able to retire comfortably in 10 years or have your dream job, but have to work until the day you die?
+$randextra decide Would you rather have a horrible short term memory or a horrible long term memory?
+$randextra decide Would you rather have a map that shows you the location of anything you want to find and can be used again and again but has a margin of error of up to a mile or a device that allows you to find the location of anything you want with incredible accuracy but can only be used three times?
+$randextra decide Would you rather have all animals feel compelled to obey you if you come within 10 feet of them or be given the opportunity to genetically design a pet that will be loyal only to you with the combined DNA of three animals?
+$randextra decide Would you rather have all dogs try to attack you when they see you or all birds try to attack you when they see you?
+$randextra decide Would you rather have all of your clothes fit perfectly or have the most comfortable pillow, blankets, and sheets in existence?
+$randextra decide Would you rather have all traffic lights you approach be green or never have to stand in line again?
+$randextra decide Would you rather have amazingly fast typing / texting speed or be able to read ridiculously fast?
+$randextra decide Would you rather have an easy job working for someone else or work for yourself but work incredibly hard?
+$randextra decide Would you rather have an unlimited international first class ticket or never have to pay for food at restaurants?
+$randextra decide Would you rather have chapped lips that never heal or a terrible dandruff that can’t be treated?
+$randextra decide Would you rather have constantly dry eyes or a constant runny nose?
+$randextra decide Would you rather have edible spaghetti hair that regrows every night or sweat maple syrup?
+$randextra decide Would you rather have every cat or dog that gets lost end up at your house or everyone’s clothes that they forget in the dryer get teleported to your house?
+$randextra decide Would you rather have everyone laugh at your jokes but not find anyone else’s jokes funny or have no one laugh at your jokes but you still find other people’s jokes funny?
+$randextra decide Would you rather have everything in your house perfectly organized by a professional or have a professional event company throw the best party you’ve ever been to, in your honor?
+$randextra decide Would you rather have everything on your phone right now (browsing history, photos, etc.) made public to anyone who Google’s you name or never use a cell phone again?
+$randextra decide Would you rather have everything you draw become real but be terrible at drawing or be able to fly but only as fast as you can walk?
+$randextra decide Would you rather have everything you eat be too salty or not salty enough no matter how much salt you add?
+$randextra decide Would you rather have free Wi-Fi wherever you go or be able to drink unlimited free coffee at any coffee shop?
+$randextra decide Would you rather have hands that kept growing as you got older or feet that kept growing as you got older?
+$randextra decide Would you rather have no eyebrows or only one eyebrow?
+$randextra decide Would you rather have no fingers or no elbows?
+$randextra decide Would you rather have one nipple or two belly buttons?
+$randextra decide Would you rather have one real get out of jail free card or a key that opens any door?
+$randextra decide Would you rather have out of control body hair or out of control body odor?
+$randextra decide Would you rather have plants grow at 10 times their normal rate when you are near or for people and animals to stop aging when you are near them?
+$randextra decide Would you rather have real political power but be relatively poor or be ridiculously rich and have no political power?
+$randextra decide Would you rather have skin that changes color based on your emotions or tattoos appear all over your body depicting what you did yesterday?
+$randextra decide Would you rather have someone impersonating you and doing really amazing things that you get the credit for or find money hidden in weird places all around your house every day but with no explanation where the money comes from or how it keeps getting there?
+$randextra decide Would you rather have someone secretly give you LSD on a random day and time once every 6 months or have everyone in the world all take LSD at the same time once every 5 years?
+$randextra decide Would you rather have the police hunting you for a murder you didn’t commit or a psychopathic clown hunting you?
+$randextra decide Would you rather have the power to gently nudge anyone’s decisions or have complete puppet master control of five people?
+$randextra decide Would you rather have to fart loudly once, every time you have a serious conversation or have to burp after every kiss?
+$randextra decide Would you rather have to read aloud every word you read or sing everything you say out loud?
+$randextra decide Would you rather have unlimited amounts of any material you want to build a house but you have to build the house yourself or have a famed architect design and build you a modest house?
+$randextra decide Would you rather have unlimited sushi for life or unlimited tacos for life? (both are amazingly delicious and can be any type of sushi / taco you want)
+$randextra decide Would you rather have whatever you are thinking appear above your head for everyone to see or have absolutely everything you do live streamed for anyone to see?
+$randextra decide Would you rather humans go to the moon again or go to mars?
+$randextra decide Would you rather it be impossible for you to be woken up for 11 straight hours every day but you wake up feeling amazing or you can be woken up normally but never feel totally rested?
+$randextra decide Would you rather it never stops snowing (the snow never piles up) or never stops raining (the rain never causes floods)?
+$randextra decide Would you rather kill one innocent person or five people who committed minor crimes?
+$randextra decide Would you rather know all the mysteries of the universe or know every outcome of every choice you make?
+$randextra decide Would you rather know how above or below average you are at everything or know how above or below average people are at one skill / talent just by looking at them?
+$randextra decide Would you rather know the history of every object you touched or be able to talk to animals?
+$randextra decide Would you rather know the uncomfortable truth of the world or believe a comforting lie?
+$randextra decide Would you rather know when you are going to die or how you are going to die? (You can’t change the time or method of your death.)
+$randextra decide Would you rather live a comfortable and peaceful life in the woods in a small cabin or a life full of conflict in a mansion in a city?
+$randextra decide Would you rather live in a cave or live in a tree house?
+$randextra decide Would you rather live in a haunted house where the ghosts ignore you and do their own thing or be a ghost in a house living out a pleasant and uneventful week from your life again and again?
+$randextra decide Would you rather live in a house with see-through walls in a city or in the same see-though house but in the middle of a forest far from civilization?
+$randextra decide Would you rather live in a utopia as a normal person or in a dystopia but you are the supreme ruler?
+$randextra decide Would you rather live in the wilderness far from civilization or live on the streets of a city as a homeless person?
+$randextra decide Would you rather live in virtual reality where you are all powerful or live in the real world and be able to go anywhere but not be able to interact with anyone or anything?
+$randextra decide Would you rather live on the beach or in a cabin in the woods?
+$randextra decide Would you rather live under a sky with no stars at night or live under a sky with no clouds during the day?
+$randextra decide Would you rather live until you are 200 but look like you are 200 the whole time even though you are healthy or look like you are 25 all the way until you die at age 65?
+$randextra decide Would you rather live without the internet or live without AC and heating?
+$randextra decide Would you rather live your entire life in a virtual reality where all your wishes are granted or in the real world?
+$randextra decide Would you rather lose all of your memories from birth to now or lose your ability to make new long term memories?
+$randextra decide Would you rather lose all of your money and valuables or all of the pictures you have ever taken?
+$randextra decide Would you rather lose the ability to read or lose the ability to speak?
+$randextra decide Would you rather lose your best friend or all of your friends except for your best friend?
+$randextra decide Would you rather lose your left hand or right foot?
+$randextra decide Would you rather move to a new city or town every week or never be able to leave the city or town you were born in?
+$randextra decide Would you rather never be able to drink sodas like coke again or only be able to drink sodas and nothing else?
+$randextra decide Would you rather never be able to eat meat or never be able to eat vegetables?
+$randextra decide Would you rather never be able to leave your own country or never be able to fly in an airplane?
+$randextra decide Would you rather never be able to use a touchscreen or never be able to use a keyboard and mouse?
+$randextra decide Would you rather never be able to wear pants or never be able to wear shorts?
+$randextra decide Would you rather never be stuck in traffic again or never get another cold?
+$randextra decide Would you rather never get a paper cut again or never get something stuck in your eye again?
+$randextra decide Would you rather never get angry or never be envious?
+$randextra decide Would you rather never have a toilet clog on you again or never have the power go out again?
+$randextra decide Would you rather never have another embarrassing fall in public or never feel the need to pass gas in public again?
+$randextra decide Would you rather never have to clean a bathroom again or never have to do dishes again?
+$randextra decide Would you rather never have to work again or never have to sleep again (you won’t feel tired or suffer negative health effects)?
+$randextra decide Would you rather never lose your phone again or never lose your keys again?
+$randextra decide Would you rather never run out of battery power for whatever phone and tablet you own or always have free Wi-Fi wherever you go?
+$randextra decide Would you rather never sweat again or never feel cold again?
+$randextra decide Would you rather never use social media sites / apps again or never watch another movie or TV show?
+$randextra decide Would you rather not be able to open any closed doors (locked or unlocked) or not be able to close any open doors?
+$randextra decide Would you rather not be able to see any colors or have mild but constant tinnitus (ringing in the ears)?
+$randextra decide Would you rather only wear one color each day or have to wear seven colors each day?
+$randextra decide Would you rather randomly time travel +/- 20 years every time you fart or teleport to a different place on earth (on land, not water) every time you sneeze?
+$randextra decide Would you rather relive the same day for 365 days or lose a year of your life?
+$randextra decide Would you rather see what was behind every closed door or be able to guess the combination of every safe on the first try?
+$randextra decide Would you rather sell all of your possessions or sell one of your organs?
+$randextra decide Would you rather snitch on your best friend for a crime they committed or go to jail for the crime they committed?
+$randextra decide Would you rather spend the rest of your life with a sailboat as your home or an RV as your home?
+$randextra decide Would you rather spend two years with your soul mate only to have them die and you never love again or spend your life with someone nice you settled for?
+$randextra decide Would you rather suddenly be elected a senator or suddenly become a CEO of a major company. (You won’t have any more knowledge about how to do either job than you do right now.)
+$randextra decide Would you rather super sensitive taste or super sensitive hearing?
+$randextra decide Would you rather take amazing selfies but all of your other pictures are horrible or take breathtaking photographs of anything but yourself?
+$randextra decide Would you rather the aliens that make first contact be robotic or organic?
+$randextra decide Would you rather the general public think you are a horrible person but your family be very proud of you or your family think you are a horrible person but the general public be very proud of you?
+$randextra decide Would you rather there be a perpetual water balloon war going on in your city / town or a perpetual food fight?
+$randextra decide Would you rather use a push lawn mower with a bar that is far too high or far too low?
+$randextra decide Would you rather vomit uncontrollably for one-minute every time you hear the happy birthday song or get a headache that lasts for the rest of the day every time you see a bird (including in pictures or a video)?
+$randextra decide Would you rather wake up as a new random person every year and have full control of them for the whole year or once a week spend a day inside a stranger without having any control of them?
+$randextra decide Would you rather wake up each morning to find that a random animal appendage has replaced your non dominant arm or permanently replace your bottom half with an animal bottom of your choice?
+$randextra decide Would you rather wake up every morning with a new hundred-dollar bill in your pocket but not know where it came from or wake up every morning with a new fifty-dollar bill in your pocket and know where it comes from?
+$randextra decide Would you rather wake up in the middle of an unknown desert or wake up in a row boat on an unknown body of water?
+$randextra decide Would you rather walk around work or school for the whole day without realizing there is a giant brown stain on the back of your pants or realize the deadline for that important paper / project was yesterday and you are nowhere near done?
+$randextra decide Would you rather wear a wedding dress / tuxedo every single day or wear a bathing suit every single day?
+$randextra decide Would you rather work very hard at a rewarding job or hardly have to work at a job that isn’t rewarding?
+$randextra decide Would you rather write a novel that will be widely considered the most important book in the past 200 years but you and the book will only be appreciated after your death or be the most famous erotica writer of your generation?
+$randextra decide Would you rather your only mode of transportation be a donkey or a giraffe?
+$randextra decide Would you rather your shirts be always two sizes too big or one size too small?
+$randextra decide Would you rather be a character in the movie Gone with the Wind or The Wizard of Oz?
+$randextra decide Would you rather make a movie of your life before you were twenty-one or a movie of your life after the age of twenty-one?
+$randextra decide Would you rather be an actor/actress in a movie or in a television show?
+$randextra decide Would you rather be an actor/actress in a comedy or in a drama?
+$randextra decide Would you rather do your own stunts in an action movie, or have a stunt person do them?
+$randextra decide Would you rather play a villain or a hero in a movie?
+$randextra decide Would you rather be on a game show or star in a soap opera?
+$randextra decide Would you rather be a stand-up comedian or a concert pianist?
+$randextra decide Would you rather be a famous movie star or a member of your favorite popular music group?
+$randextra decide Would you rather win an Olympic Gold Medal or an Academy Award?
+$randextra decide Would you rather be famous for your dancing or famous for your singing?
+$randextra decide Would you rather eat a small can of cat food or eat two rotten tomatoes?
+$randextra decide Would you rather be completely bald or covered from head to toe with hair?
+$randextra decide Would you rather always have to skip everywhere or run everywhere?
+$randextra decide Would you rather have hands instead of feet or feet instead of hands?
+$randextra decide Would you rather have a horse’s tail or a unicorn horn?
+$randextra decide Would you rather hold a snake or kiss a jellyfish?
+$randextra decide Would you rather always smell rotten meat or always smell skunk?
+$randextra decide Would you rather have a pig nose or a monkey face?
+$randextra decide Would you rather surf in shark-infested waters or jump free fall with a parachute into the Grand Canyon?
+$randextra decide Would you rather sit with a resting lion for ten minutes or run across a hungry alligator’s back?
+$randextra decide Would you rather have your grandmother’s hairstyle or first name?
+$randextra decide Would you rather drink all your food from a baby bottle or wear visible diapers for the rest of your life?
+$randextra decide Would you rather always talk in rhymes or sing instead of speak?
+$randextra decide Would you rather suffer from spontaneous shouting or unpredictable fainting spells?
+$randextra decide Would you rather wear clown makeup every day for a year or wear a tutu every day for a year?
+$randextra decide Would you rather not be allowed to wash your hands for a month or your hair for a month?
+$randextra decide Would you rather always have a booger in your nose that moves when you breathe in and out or a piece of food stuck between your two front teeth?
+$randextra decide Would you rather have to use a public toilet that is extremely dirty and dark or one that has a snake in it?
+$randextra decide Would you rather get caught eating a booger or scratching your privates?
+$randextra decide Would you rather play video games or play outside?
+$randextra decide Would you rather have an unlimited amount of chips or candy?
+$randextra decide Would you rather have cookies or cake?
+$randextra decide Would you rather eat tacos or pizza?
+$randextra decide Would you rather to never eat your favorite food the rest of your life or only be allowed to eat your favorite food for the rest of your life?
+$randextra decide Would you rather be a police officer or fire fighter?
+$randextra decide Would you rather never have to brush your teeth again or never have to take a bath or shower again?
+$randextra decide Would you rather lick the bottom of your shoe or eat your boogers?
+$randextra decide Would you rather eat a dead bug or a live worm?
+$randextra decide Would you rather get good grades or be good at sports?
+$randextra decide Would you rather go to the school only for four months in the winter and have the rest of the year off or go to school in the summer and have the rest of the year off?
+$randextra decide Would you rather be the most intelligent kid in school and make awesome grades or be the most popular kid in school and make poor grades?
+$randextra decide Would you rather set the table before dinner or clean up after dinner?
+$randextra decide Would you rather get up very early or stay up very late?
+$randextra decide Would you rather jump into a pool of chocolate pudding or a pool of mud?
+$randextra decide Would you rather have a dog as a pet or a cat as a pet?
+$randextra decide Would you rather have five stitches to fix a bad cut or have a tooth pulled?
+$randextra decide Would you rather play inside all day or play outside all day?
+$randextra decide Would you rather sneeze cheese or have your tears be chocolate flavored?
+$randextra decide Would you rather have 500 spiders in your bedroom or 1000 grasshoppers in the rest of the house?
+$randextra decide Would you rather live in an amusement park or a zoo?
+$randextra decide Would you rather lie to your parents or lie to your best friend?
+$randextra decide Would you rather eat two tablespoons full of liquid soap or drink a glass full of liquid one tablespoon in water?
+$randextra decide Would you rather not use your computer for a month or not eat junk food for a month?
+$randextra decide Would you rather live in Narnia or go to school at Hogwarts?
+$randextra decide Would you rather have only two close friends or many acquaintances?
+$randextra decide Would you rather be known as the best student in your school or be the captain of one of the sport teams?
+$randextra decide Would you rather always have to sing instead of speaking or dance everywhere you went?
+$randextra decide Would you rather be the star basketball player on your school’s losing team or sit on the bench all season with your school’s winning team?
+$randextra decide Would you rather save your country from an invasion or from a terrible disease?
+$randextra decide Would you rather have bad breath and body odor the entire day or be completely naked?
+$randextra decide Would you rather all of the members of the opposite sex liked you or have the prettiest (but dumb) girl in school as a girlfriend?
+$randextra decide Would you rather be very short or extremely tall?
+$randextra decide Would you rather have overly large hands or very small feet?
+$randextra decide Would you rather eat a small can of dog food or six overripe bananas?
+$randextra decide Would you rather have to eat a bowl full of worms or a live frog?
+$randextra decide Would you rather live without your phone for two weeks or your computer for a month?
+$randextra decide Would you rather be the teacher at your school or the janitor?
+$randextra decide Would you rather be invisible or be able to fly?
+$randextra decide Would you rather lose your ability to speak or have to say everything you are thinking?
+$randextra decide Would you rather live on a plant or beneath the sea?
+$randextra decide Would you rather have to listen to music all of the time or not be able to listen to music at all?
+$randextra decide Would you rather have live one hundred years in the future or one hundred years in the past?
+$randextra decide Would you rather be the best player on a losing team or the worst player on a winning team?
+$randextra decide Would you rather have extremely small freakishly eyes or an extremely large nose?
+$randextra decide Would you rather have friends that are smarter than you or friends that are be much better looking than you?
+$randextra decide Would you rather give a speech to the whole school, including teachers, for 30 minutes or work in the school cafeteria for a semester?
+$randextra decide Would you rather break up with someone or have someone break up with you?
+$randextra decide Would you rather be handsome/beautiful and marry an ugly person or be ugly and marry a handsome/beautiful person?
+$randextra decide Would you rather marry someone who does not love you or marry someone you do not love?
+$randextra decide Would you rather marry someone who is extremely attractive or be extremely attractive yourself?
+$randextra decide Would you rather have your first child when you are 18 years old or when you are 40 years old?
+$randextra decide Would you rather live a long life in poverty or a short life with wealth?
+$randextra decide Would you rather have everyone know about your personal finances or know the details of your romantic life?
+$randextra decide Would you rather marry someone very rich or someone who is very handsome/beautiful?
+$randextra decide Would you rather only have one child of your own or adopt as many children as you wish?
+$randextra decide Would you rather have a beautiful sporty car and an old house or a real “clunker” car and a beautiful house?
+$randextra decide Would you rather save someone’s life or have a bucket full of gold?
+$randextra decide Would you rather be poor and attractive or rich and ugly?
+$randextra decide Would you rather fly all over the world with your true love or be marooned on an island with your favorite celebrity?
+$randextra decide Would you rather be locked inside an old building with your boyfriend/girlfriend or inside an amusement park with a celebrity?
+$randextra decide Would you rather marry someone who has lots of money or someone with a good heart?
+$randextra decide Would you rather stay up all night helping an irritating family member with a problem or babysit a baby that will not stop crying?
+$randextra decide Would you rather be able to dress in designer clothes or buy everything you want at a discount store?
+$randextra decide Would you rather get everything you want materially or find your true love?
+$randextra decide Would you rather date someone who is 10 years older or someone 10 years younger?
+$randextra decide Would you rather have an arranged marriage or spend the rest of your life single?
+$randextra decide Would you rather have disappointing sex every night for a full year or great sex for one night?
+$randextra decide Would you rather live out in the country or in the city?
+$randextra decide Would you rather unknown and rich or be famous and poor?
+$randextra decide Would you rather take your vacation at an exotic resort or go camping?
+$randextra decide Would you rather baby sit crying infant triplets for six hours or go without food and water for 24 hours?
+$randextra decide Would you rather travel 100 years into the future or 100 years into the past?
+$randextra decide Would you rather spend 2 months living in a nursing home or two months in jail?
+$randextra decide Would you rather have a bee sting you on the face, or hold a snake?
+$randextra decide Would you rather wear a bathing suit or wear formal attire everywhere you go for the next two weeks?
+$randextra decide Would you rather borrow $10,000 from your parents or borrow $1000 from your friends?
+$randextra decide Would you rather live around a noisy neighbor or a barking dog?
+$randextra decide Would you rather win a million dollars in the lottery or never have to buy anything for yourself ever again?
+$randextra decide Would you rather be bitten by a poison snake or a poison spider?
+$randextra decide Would you rather be famous and remembered with hatred or unknown and forgotten?
+$randextra decide Would you rather be a doctor or a nurse?
+$randextra decide Would you rather be a chef or a server?
+$randextra decide Would you rather stay forever at your current age or be 10 years younger?
+$randextra decide Would you rather be very strong or be able to run very fast?
+$randextra decide Would you rather own your own boat or your own island?
+$randextra decide Would you rather spend one year sailing around the world or one year living in your foreign favorite country?
+$randextra decide Would you rather take a trip down the Amazon River or walk the Great Wall of China?
+$randextra decide Would you rather meet your favorite movie star or the President of the United States?
+$randextra decide Would you rather be a rabbit or a fox?
+$randextra decide Would you rather go skiing in the winter or to the beach in the summer?
+$randextra decide Would you rather lose your sense of smell or your sense of taste?
+$randextra decide Would you rather raise chickens for eggs or beef for meat?
+$randextra decide Would you rather live on a houseboat or in a cabin in the mountains?
+$randextra decide Would you rather always have your favorite song stuck in your head forever or always dream the same thing at night?
+$randextra decide Would you rather have hair that is always straight or hair that is super curly?
+$randextra decide Would you rather develop a paralyzing fear of heights or be afraid of water?
+$randextra decide Would you rather have everyone know the details of your finances or the details of your love life?
+$randextra decide Would you rather have the ability to read other people’s mind or the ability to see into the future?
+$randextra decide Would you rather be able to sing like diva or be able to play the guitar like a rock star?
+$randextra decide Would you rather live as a vegan for a month or only be able to eat meat and dairy for a month?
+$randextra decide Would you rather have all of your emails for the next two months made public or have your text messages read by everyone?
+$randextra decide Would you rather have to shout everything you say or whisper everything you say?
+$randextra decide Would you rather be a giant mouse or a tiny elephant?
+$randextra decide Would you rather never eat your favorite food for the rest of your life, or only be able to eat your favorite food?
+$randextra decide Would you rather be a tiny person no taller than a few inches or a giant person over nine feet tall?
+$randextra decide Would you rather be stranded on an island with someone you hate or stranded on an island alone?
+$randextra decide Would you rather forget who you are or not know who everyone else is?
+$randextra decide Would you rather let it go or get even?
+$randextra decide Would you rather never be able to say what is on your mind or always have to speak the truth?
+$randextra decide Would you rather never play or always lose?
+$randextra decide Would you rather be the circus person who puts their head in the lion’s mouth or the clown that is shot out of a cannon?
+$randextra decide Would you rather walk barefoot in a public bathroom or through poison ivy?
+$randextra decide Would you rather wear an overcoat to bed every night or sleep with shoes and socks on every night?
+$randextra decide Would you rather have hail rocks or rain arrows?
+$randextra decide Would you rather have a noisy neighbor or a nosy neighbor?
+$randextra decide Would you rather have the ability to see ten years into your own future or six months into the future of the world?
+$randextra decide Would you rather be famous for being extremely intelligent or for being good looking?
+$randextra decide Would you rather parent ten children who are well-behaved angels or parent one child who is totally out of control?
+$randextra decide Would you rather go to your 20-year class reunion and nobody remember who you are or have everybody comment on how old you look?
+$randextra decide Would you rather live life in a small submarine at the bottom of the sea or in a small space capsule in outer space?
+$randextra decide Would you rather lose your keys (all of them – house and car) or lose your phone?
+$randextra decide Would you rather win one million dollars today or ten million dollars in ten years?
+$randextra decide Would you rather have your body age or your face age?
+$randextra decide Would you rather spend every minute the rest of your life outside or inside?
+$randextra decide Would you rather have the power to make anyone fall in love with you or be able to read minds?
+$randextra decide Would you rather go back in time and prevent the Titanic from sinking or prevent the 1929 stock market crash?
+$randextra decide Would you rather live in a home with no electricity or in a home with no running water?
+$randextra decide Would you rather have to crawl everywhere or run everywhere?
+$randextra decide Would you rather wear a cape for a month everywhere with no explanation or wear an eye patch everywhere for a month?
+$randextra decide Would you rather wash the laundry or fold and put away the laundry?
+$randextra decide Would you rather be able to live under water or live in outer space?
+$randextra decide Would you rather have the power to end war in the world or the power to end poverty?
+$randextra decide Would you rather be able to sleep as late as you wish or be able to stay up as late as you like?
+$randextra decide Would you rather have a dinosaur as a pet or a unicorn?
+$randextra decide Would you rather have a submarine or a space shuttle?
+$randextra decide Would you rather be able to fly everywhere you want or be invisible?
+$randextra decide Would you rather eat any flavor of ice cream you wish for one week of summer or only vanilla-flavored ice cream for an entire summer?
+$randextra decide Would you rather be an expert at everything or have all knowledge?
+$randextra decide Would you rather have a paid for luxury two-bedroom apartment in a big city of your choice or a free mansion in the country of the state or country where you live currently?
+$randextra decide Would you rather win the Nobel Peace Prize or 5 million dollars?
+$randextra decide Would you rather travel 100 years in the past or 100 years in the future?
+$randextra decide Would you rather go to jail for a year or be homeless for a year?
+$randextra decide Would you rather live with someone you hate or live completely alone?
+$randextra decide Would you rather be rich with no friends or poor with lots of good friends?
+$randextra decide Would you rather be on an airplane between two arguing passengers or next to a screaming infant?
+$randextra decide Would you rather save the life of an elderly family member or the life of a child to whom you are not related?
+$randextra decide Would you rather never touch an electronic device again or never touch a human again?
+$randextra decide Would you rather have a terrible short-term memory or forget everything bad that ever happened to you?
+$randextra decide Would you rather have one wish granted today or three wishes granted ten years from now?
+$randextra decide Would you rather be homeless and have family and friends or live comfortably but entirely alone?
+$randextra decide Would you rather spend a year in a psychiatric hospital or a year in jail?
+$randextra decide Would you rather spend a week adrift at sea in a life raft or spend one month in the coldest place on earth?
+$randextra decide Would you rather share a toothbrush with a random stranger or kiss a random stranger on the mouth?
+$randextra decide Would you rather be able to eat as much as you want and never gain weight or feel refreshed and well rested after only three hours of sleep each night?
+$randextra decide Would you rather be completely alone for 5 years or never alone for 5 years?
+$randextra decide Would you rather lose you sense of taste or your sense of smell?
+$randextra decide Would you rather not be able to read or not be able to write?
+$randextra decide Would you rather have to eat only warm food or have to eat only cold food?
+$randextra decide Would you rather spend 48 straight hours in a public restroom or the same amount of time in a morgue?
+$randextra decide Would you rather live in a place where it is always cold or in a place that is always hot?
+$randextra decide Would you rather be 4’2″ or 8’2″?
+$randextra decide Would you rather be short and physically fit or tall and fat?
+$randextra decide Would you rather exercise regularly or eat a healthy diet?
+$randextra decide Would you rather lose half your hearing or half your seeing?
+$randextra decide Would you rather be rich and alone or be poor and find true love?
+$randextra decide Would you rather have a constant itch or be in constant pain?
+$randextra decide Would you rather go through life unable to ask any questions or unable to answer any questions?
+$randextra decide Would you rather go without the internet or your phone for a month?
+$randextra decide Would you rather be great at math or an amazing writer?
+$randextra decide Would you rather only be able to jump everywhere you go or only be able to skip everywhere you go?
+$randextra decide Would you rather be able jump incredibly high or run incredibly fast?
+$randextra decide Would you rather have no sense of smell or smell everything around you with extra ability?
+$randextra decide Would you rather be blind the rest of your life or mute the rest of your life?
+$randextra decide Would you rather look strong and be weak or look weak and be strong?
+$randextra decide Would you rather have a third eye or a third ear?
+$randextra decide Would you rather be as tall as you are wide or as wide as you are tall?
+$randextra decide Would you rather age only from the neck up or only from the neck down?
+$randextra decide Would you rather have a very muscular lower body and a normal upper body, or a muscular upper body but a very skinny lower body?
+$randextra decide Would you rather be a moron in a world of geniuses or a genius in a world of morons?
+$randextra decide Would you rather have $1,000,000 now or $5,000 a week for the rest of your life?
+$randextra decide Would you rather listen to songs you have no control over 24 hours a day for a year or listen to your favorite song 24 hours a day for a year?
+$randextra decide Would you rather be rich working a job you hate or poor working a job you love?
+$randextra decide Would you rather be the boss or the employee?
+$randextra decide Would you rather have a job that requires very little work but it boring or work very hard at an interesting job?
+$randextra decide Would you rather work the job you have now for a year at double your current rate of pay or have one year off with what you are making now?
+$randextra decide Would you rather have a one month paid vacation or not have to pay taxes on your income for a year?
+$randextra decide Would you rather take a year off at full pay or work your current job for the next year at double your salary?
+$randextra decide Would you rather have a job that impacts your society or the world and make very little money or become famous for something trivial and have a great deal of money?
+$randextra decide Would you want to stay the age you are physically forever or stay the way you are now financially forever?
+$randextra decide Would you rather stand all day at work or sit all day at work?
+$randextra decide Would you rather go into the past and meet your ancestors or go into the future and meet your great-great grandchildren?
+$randextra decide Would you rather have more time or more money?
+$randextra decide Would you rather have a rewind button or a pause button on your life?
+$randextra decide Would you rather be able to talk with the animals or speak all foreign languages?
+$randextra decide Would you rather win the lottery or live twice as long?
+$randextra decide Would you feel worse if no one showed up to your wedding or to your funeral?
+$randextra decide Would you rather be without internet for a week, or without your phone?
+$randextra decide Would you rather meet George Washington, or the current President?
+$randextra decide Would you rather lose your vision or your hearing?
+$randextra decide Would you rather work more hours per day, but fewer days or work fewer hours per day, but more days?
+$randextra decide Would you rather listen to music from the 70’s or music from today?
+$randextra decide Would you rather become someone else or just stay you?
+$randextra decide Would you rather be Batman or Spiderman?
+$randextra decide Would you rather be stuck on a broken ski lift or in a broken elevator?
+$randextra decide For your birthday, would you rather receive cash or gifts?
+$randextra decide Would you rather go to a movie or to dinner alone?
+$randextra decide Would you rather always say everything on your mind or never speak again?
+$randextra decide Would you rather make a phone call or send a text?
+$randextra decide Would you rather read an awesome book or watch a good movie?
+$randextra decide Would you rather be the most popular person at work or school or the smartest?
+$randextra decide Would you rather put a stop to war or end world hunger?
+$randextra decide Would you rather spend the night in a luxury hotel room or camping surrounded by beautiful scenery?
+$randextra decide Would you rather explore space or the ocean?
+$randextra decide Would you rather go deep sea diving or bungee jumping?
+$randextra decide Would you rather be a kid your whole life or an adult your whole life?
+$randextra decide Would you rather go on a cruise with friends or with your spouse?
+$randextra decide Would you rather lose your keys or your cell phone?
+$randextra decide Would you rather eat a meal of cow tongue or octopus?
+$randextra decide Would you rather have x-ray vision or magnified hearing?
+$randextra decide Would you rather work in a group or work alone?
+$randextra decide Would you rather be stuck on an island alone or with someone who talks incessantly?
+$randextra decide Would you rather be too hot or too cold?
+$randextra decide When you’re old, would you rather die before or after your spouse?
+$randextra decide Would you rather have a cook or a maid?
+$randextra decide Would you rather be the youngest or the oldest sibling?
+$randextra decide Would you rather get rich through hard work or through winning the lottery?
+$randextra decide Would you rather have a 10-hour dinner with a headstrong politician from an opposing party, or attend a 10-hour concert for a music group you detest?
+$randextra decide Would you rather be an Olympic gold medalist or a Nobel Peace Prize winner?
+$randextra decide Would you rather have a desk job or an outdoor job?
+$randextra decide Would you rather live at the top of a tall NYC apartment building or at the top of a mountain?
+$randextra decide Would you rather have Rambo or The Terminator on your side?
+$randextra decide Would you rather be proposed to in private or in front of family and friends?
+$randextra decide Would you rather have to sew all your clothes or grow your own food?
+$randextra decide Would you rather hear the good news or the bad news first?
+$randextra decide Would you rather be your own boss or work for someone else?
+$randextra decide Would you rather have nosy neighbors or noisy neighbors?
+$randextra decide Would you rather be on a survival reality show or dating game show?
+$randextra decide Would you rather be too busy or be bored?
+$randextra decide Would you rather watch the big game at home or live at the stadium.
+$randextra decide Would you rather spend the day with your favorite athlete or you favorite movie star?
+$randextra decide Would you rather live where it is constantly winter or where it is constantly summer?
+$randextra decide Would you rather travel the US and see the sights in a motorhome or by plane?
+$randextra decide Would you rather be a little late or way too early?
+$randextra decide Would you rather have an unlimited gift certificate to a restaurant or a clothing store?
+$randextra decide Would you rather date someone you met online or go on a blind date?
+$randextra decide Would you rather your kids wear a uniform to school or clothing of their choice?
+$randextra decide Would you rather have many good friends or one very best friend?
+$randextra decide Would you rather live in Antarctica or the Sahara Dessert?
+$randextra decide Would you rather be able to take back anything you say or hear every conversation around you?
+$randextra decide Would you rather be 4’5” or 7’7”?
+$randextra decide Would you rather be poor and work at a job you love, or rich and work at a job you hate?
+$randextra decide Would you rather have your flight delayed by 8 hours or lose your luggage?
+$randextra decide Would you rather be in your pajamas or a suit all day?
+$randextra decide Would you rather have your first child when you are 18 or 40?
+$randextra decide Would you rather be the star player on a losing basketball team or ride the bench on a winning one?
+$randextra decide Would you rather spend the next year exempt from all taxes or have a one-month paid vacation?
+$randextra decide Would you rather have the best house in a bad neighborhood or the worst house in a good neighborhood?
+$randextra decide Would you rather be filthy rich and live 400 years ago or be poor but live today?
+$randextra decide Would you rather be gossiped about or never talked about at all?
+$randextra decide Would you rather end hunger or hatred?
+$randextra decide Would you rather be an unknown major league baseball player or a famous badminton star?
+$randextra decide Would you rather go without TV or junk food the rest of your life?
+$randextra decide Would you rather spend the day at an amusement park or lazing on the beach?
+$randextra decide Would you rather be fluent in all languages or be a master of every musical instrument?
+$randextra decide Would you rather sing a song in front of complete strangers or your closest friends?
+$randextra decide Would you rather own your own boat or your own plane?
+$randextra decide Would you rather meet the president of the United States or a movie star?
+$randextra decide Would you rather spend two weeks stuck in a psychiatric hospital or stuck in an airport?
+$randextra decide If you had to give up one thing for the rest of your life, would it be brushing your hair or brushing your teeth?
+$randextra decide Would you rather spend 20 years in prison and be exonerated as innocent or be put away for four years (despite your innocence) and be considered guilty forever?
+$randextra decide Would you rather own a house or rent a residence?
+$randextra decide Would you rather be known as a one-hit wonder for a novel or a song?
+$randextra decide Would you rather take an action-packed European vacation or spend two weeks at the same Caribbean resort?
+$randextra decide Would you rather be a character in an action-packed thriller or a romantic comedy?
+$randextra decide Would you rather be stuck on a train or a bus?
+$randextra decide Would you rather be a part of an arranged marriage or spend your life as a single person?
+$randextra decide Would you rather babysit a crying infant for a day or have an unwanted houseguest for a week?
+$randextra decide Would you rather be locked in an amusement park or a library?
+$randextra decide Would you rather sing like an opera star or cook like a gourmet chef?
+$randextra decide Would you rather have your debt forgiven or have guaranteed good health for a decade?
+$randextra decide Would you rather live the rest of your life as a monk or followed continuously by paparazzi?
+$randextra decide Would you rather be given a lifetime supply of delicious food or books?
+$randextra decide Would you rather be able to breath underwater or fly through the air?
+$randextra decide Would you rather be known for your intelligence or your good looks?
+$randextra decide Would you rather eat pizza or ice cream as the only food for eternity?
+$randextra decide Would you rather mentally or physically never age?
+$randextra decide Would you rather change your eye color or your hair color?
+$randextra decide Would you rather have the details of your financial life or your love life be made public?
+$randextra decide Would you rather spend a year as a cop or a teacher in an inner-city neighborhood?
+$randextra decide Would you rather have a family of 12 children or never be able to have children at all?

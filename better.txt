@@ -1,0 +1,74 @@
+﻿$randextra decide which they like better At a movie: Candy or Popcorn?
+$randextra decide which they like better Bath or Shower?
+$randextra decide which they like better Beer or Wine?
+$randextra decide which they like better Big Party or Small Gathering?
+$randextra decide which they like better Blinds or Curtain?
+$randextra decide which they like better Blue or Red?
+$randextra decide which they like better Book or eBook?
+$randextra decide which they like better Cake or Pie?
+$randextra decide which they like better Camping or Binge Watching Shows at Home?
+$randextra decide which they like better Car or Truck?
+$randextra decide which they like better Card Game or Board Game?
+$randextra decide which they like better Cardio or Weights?
+$randextra decide which they like better City or Countryside?
+$randextra decide which they like better Classical Art or Modern Art?
+$randextra decide which they like better Coffee Cup or Thermos?
+$randextra decide which they like better Coffee or Tea?
+$randextra decide which they like better Coke or Pepsi?
+$randextra decide which they like better Comic Book or Comic Strips?
+$randextra decide which they like better Console Gaming or PC Gaming?
+$randextra decide which they like better Couch or Recliner?
+$randextra decide which they like better Cups in the cupboard: Right Side Up or Up Side Down?
+$randextra decide which they like better Dine In or Delivery?
+$randextra decide which they like better Dog or Cat?
+$randextra decide which they like better Facebook or Twitter?
+$randextra decide which they like better Football or Basketball?
+$randextra decide which they like better Form or Function?
+$randextra decide which they like better Glasses or Contacts?
+$randextra decide which they like better Hamburger or Taco?
+$randextra decide which they like better High-tech or Low-tech?
+$randextra decide which they like better Honesty or Other’s Feelings?
+$randextra decide which they like better Horror Movie or Comedy Movie?
+$randextra decide which they like better Ice Cream Cone or Snow Cone?
+$randextra decide which they like better Iced Coffee or Hot Coffee?
+$randextra decide which they like better International Vacation or a New TV?
+$randextra decide which they like better iOS or Android?
+$randextra decide which they like better Jogging or Hiking?
+$randextra decide which they like better Mac or PC?
+$randextra decide which they like better Meat or Vegetables?
+$randextra decide which they like better Mobile Games or Console Games?
+$randextra decide which they like better Money or Free Time?
+$randextra decide which they like better Most important in a partner: Intelligent or Funny?
+$randextra decide which they like better Motorcycle or Bicycle?
+$randextra decide which they like better Movie at Home or Movie at the Theater?
+$randextra decide which they like better Netflix or YouTube?
+$randextra decide which they like better New Clothes or New Phone?
+$randextra decide which they like better Nice Car or Nice Home Interior?
+$randextra decide which they like better Ninjas or Pirates?
+$randextra decide which they like better Ocean or Mountains?
+$randextra decide which they like better Online Shopping or Shopping in a Store?
+$randextra decide which they like better Pancake or Waffle?
+$randextra decide which they like better Passenger or Driver?
+$randextra decide which they like better Pen or Pencil?
+$randextra decide which they like better Phone Call or Text?
+$randextra decide which they like better Phone or Phablet?
+$randextra decide which they like better Pop or Indie?
+$randextra decide which they like better Receive: Email or Letter?
+$randextra decide which they like better Rich Friend or Loyal Friend?
+$randextra decide which they like better Save or Spend?
+$randextra decide which they like better Sneakers or Sandals?
+$randextra decide which they like better Soup or Sandwich?
+$randextra decide which they like better Sweater or Hoodie?
+$randextra decide which they like better Swimming or Sunbathing?
+$randextra decide which they like better Tablet or Computer?
+$randextra decide which they like better Toast or Eggs?
+$randextra decide which they like better Toilet paper: Over or Under?
+$randextra decide which they like better Train or Plane?
+$randextra decide which they like better TV or Book?
+$randextra decide which they like better TV Shows or Movies?
+$randextra decide which they like better What’s worse: Laundry or Dishes?
+$randextra decide which they like better When sleeping: Fan or No Fan?
+$randextra decide which they like better While walking: Music or Podcasts?
+$randextra decide which they like better Winter or Summer?
+$randextra decide which they like better Work Hard or Play Hard?
+$randextra decide which they like better Working Alone or Working in a Team?
