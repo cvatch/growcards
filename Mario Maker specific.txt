@@ -1,0 +1,8 @@
+@GrowTye Switch to Mario!
+@GrowTye Switch to Luigi!
+@GrowTye Switch to Toad!
+@GrowTye Switch to Toadette!
+@GrowTye add 5 minutes to your level timer
+@Growtye Remove 5 minutes from your level timer
+@GrowTye add 3 minutes to your level timer
+@GrowTye add 10 minutes to your level timer
