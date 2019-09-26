@@ -1,0 +1,14 @@
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\truth.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\starters.txt
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\rtrivia.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\rather.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\haveever.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\deep.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\better.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\Mario Maker specific.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\Favourite.txt)
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\username actions.txt
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\randuser actions.txt
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\username actions.txt
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\randextra actions.txt
+$readrandline(C:\Users\Colin\Documents\GitHub\growcards\do what\Mario Maker specific.txt

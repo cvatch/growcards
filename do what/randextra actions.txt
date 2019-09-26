@@ -1,0 +1,37 @@
+$randextra Write an acronym for their name or username (Acornyms are words where each letter stands for a word eg, LOL - laugh out loud)
+$randextra count to 10 (1,2,3 etc.)
+$randextra give $randusername a compliment
+$randextra give us a metaphor (a metaphor is a comparsion without using the words "like" or "as" eg. the mall was a zoo or she is an angle)
+$randextra give us a pair of antonyms (antonyms are two words from the same languge that mean the opposite thing eg. Above/Below)
+$randextra give us a pair of heteronyms (heteronyms have the same spelling but have different meaning and pronoucation eg. Lead, pronounced LEED, means to guide. However, lead, pronounced LED, means a metallic element)
+$randextra give us a pair of homonyms (homonyms are two words that sound alike and possibly spelled alike but have differnt meanings eg. son/sun)
+$randextra give us a pair of homophones (homophone are pronounced the same as another word but different in meaning and spelling knight/night)
+$randextra give us a pair of paronyms (paronyms have the same root word eg. bicycle, binoculars, biweekly)
+$randextra give us a pair of synonyms ( a synonym is two words from the same languge that mean the same thing eg. Assit / Help)
+$randextra give us a simile (a simile is a comparsion using the words "like" or "as" eg. the boy ran like a jaguar or the boy ran fast as lightning)
+$randextra give us an example of a Hyperbole (a hyperbole is an obvious and intentional exaggeration, such as “I read a million books this summer.”
+$randextra give us an example of a paradox (A paradox is something that has sound reasoning or logic but nevertheless leads to a nonsense or an impossible conclusion.)
+$randextra give us an example of alliteration (alliteration is the repetition of the same letter or sound at the beginning of connected words eg. She sells seashells by the sea-shore)
+$randextra give us an example of allusion (The verb form of “allusion” is “to allude.” So alluding to something is the same thing as making an allusion to it eg. You're acting like such a Scrooge! Alluding to "A Christmas Carol", this line means that the person is being miserable and selfish)
+$randextra give us an example of an Euphemism (Euphemism is the substitution of a mild, indirect, or vague expression for a phrase that is thought to be rude eg. break wind or the birds and the bees)
+$randextra give us an example of an oxymoron (an oxymoron is a phrase that contradict (go against) itself eg. jumbo shrimp or Deafening silence)
+$randextra give us an example of assonance (assonance is when you have two similar words that differ by a single consonant eg. Mass/Bass, Toast/Boast)
+$randextra give us an example of consonance (is the repetition of a consonant sound and is typically used to refer to the repetition of sounds at the end of the word eg. Slither, slather / Norm, the worm, took the garden by a storm this morn.)
+$randextra give us an example of situational irony (Situational irony is when actions have an effect that is opposite from what was intended, so that the outcome is contrary to what was expected eg. A marriage counselor files for divorce or a post on Facebook complaining how useless Facebook is.)
+$randextra has to give us a pair of oronyms ( oronyms are phrases that sound similiar eg.  iced ink and I stink)
+$randextra invite one of their friends to the stream!
+$randextra post their favourite quote
+$randextra send us a random emote
+$randextra tell us if they have a nickname and what it is
+$randextra tell us their celebrity crush
+$randextra tell us their Harry Potter House
+$randextra tell us what they are going to dress up for halloween this year or what you would want to if you were
+$randextra tell us what they wore for halloween last year
+$randextra tell us what wild animal you wish you could keep as a pet
+$randextra type the quick the quick fox jumps over the lazy dog (uses every letter of the alapabet)
+$randextra use the suggestion box below to submit their own idea for a pick card
+$randextra write an Onomatopoeia (sound word like; bang, woof, pop, slurp)
+$randextra write a pangram that is NOT the quick fox jumps over the lazy brown dog ( a Pangram is a sentance that uses every letter of the alahabet at least once)
+$randextra write a word beginning with each letter of their name or username (e.g. Colin - Constantly Overthinking Life's Interesting Nature)
+$randextra write an anagram ( anagrams are words that can be rearranged to create another word eg. Listen / Silent)
+$randextra write out the alaphbet

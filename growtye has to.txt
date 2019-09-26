@@ -1,0 +1,71 @@
+@GrowTye has to make a animal noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a cow noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a pig noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a cat noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a dog noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a sheep noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a horse noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a bang noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a snap noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a boo noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a ahh noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a bloop noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a splash noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a giggle noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a growl noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a grunt noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a click noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a drip noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a fwoosh noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a Whisper noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a clap noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a gasp noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a whip noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a chirp noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a frog noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to make a hiss noise everytime they die for $randnum(1,10) minutes
+@GrowTye has to spin around  everytime they die for $randnum(1,10) minutes
+@GrowTye has to clap everytime they die for $randnum(1,10) minutes
+@GrowTye has to take a picture #divapose and post it on their Twitter
+@GrowTye has to take a picture #actionpose and post it on their Twitter
+@GrowTye has to take a picture #kissyface and post it on their Twitter
+@GrowTye has to take a picture #duckface and post it on their Twitter
+@GrowTye has to take a picture #mugshot and post it on their Twitter
+@GrowTye has to take a picture #sillyselfie and post it on their Twitter
+@GrowTye has to take a picture #fishface and post it on their Twitter
+@GrowTye has to add a level from Reddit to the viewer queue
+@GrowTye has to add a level from Twitter to the viewer queue
+@GrowTye has to add a level from Discord to the viewer queue
+@GrowTye has to add a level from Facebook to the viewer queue
+@GrowTye has to repeat the last word he says, saysfor $randnum(1,10) minutes
+@GrowTye has to has to start every sentance with "shit" and "end" it with bitch for $randnum(1,10) minutes
+@GrowTye has to has to start every sentance with "like"for $randnum(1,10) minutes
+@GrowTye has to see how many things can fit into their pocket
+@GrowTye has to roar like  lion
+@GrowTye has to sound like a dove
+@GrowTye has to see how long they can hold their breath
+@GrowTye has to play the air bongos
+@GrowTye has to play the air guitar
+@GrowTye has to play the air piano
+@GrowTye has to say "polly want a cracker"
+@GrowTye has to say "It-sa me, MArio"
+@GrowTye has to go in slow motion for for $randnum(1,10) minutes
+@GrowTye has to take a picture of something random and give it an even more random hashtag and post it on their Twitter
+@GrowTye has to try and link your arms behind your back
+@GrowTye has to try and roll your eyes to the back of your head and make a zombie noise
+@GrowTye has to wave your hands in the air like you just don't care
+@GrowTye has to turn their socks inside out
+@GrowTye has to try and do stomp
+@GrowTye has to state a random fact
+@GrowTye has to repeat the "pick" that was pulled
+@GrowTye has to make a motorcycle noise
+@GrowTye has to shadow box
+@GrowTye has to switch to the smiley bowtie
+@GrowTye has to switch to the DND bowtie
+@GrowTye has to switch to the Purple bowtie
+@GrowTye has to switch to the Gold bowtie
+@GrowTye has to switch to the Wooden bowtie
+@GrowTye has to switch to the Polkadot bowtie
+@GrowTye has to switch to the red and black bowtie
+@Growtye has to get a cat on cam!
+@Growtye has to start a giveaway for $randnum(100,1000) Positive Vibes using the command $randusername with a $randnum(2,20) Timer

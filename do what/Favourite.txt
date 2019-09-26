@@ -1,0 +1,116 @@
+$randextra tell us their favourite Power Ranger
+$randextra tell us their favourite Fairy Tale
+$randextra tell us their favourite game to play outside
+$randextra tell us their favourite Smell
+$randextra tell us their favourite day of the week
+$randextra tell us their favourite website
+$randextra tell us their favourite online game
+$randextra tell us their favourite switch game
+$randextra tell us their favourite PC game
+$randextra tell us their favourite YouTuber
+$randextra tell us their favourite name for someone else
+$randextra tell us their favourite thing you did today
+$randextra tell us their favourite thing you did this week
+$randextra tell us their favourite thing you did this month
+$randextra tell us their favourite thing you did this year
+$randextra tell us their favourite thing about your life thus far
+$randextra tell us their favourite place to hang out with friends
+$randextra tell us their favourite kind of gift to receive
+$randextra tell us their favourite way to relax
+$randextra tell us their favourite crafty thing to make
+$randextra tell us their favourite colour
+$randextra tell us their favourite season
+$randextra tell us their favourite Gen 1 Pokemon
+$randextra tell us their favourite Pokemon of all time
+$randextra tell us their favourite TV show
+$randextra tell us their favourite Book
+$randextra tell us their favourite Movie
+$randextra tell us their favourite Video Game
+$randextra tell us their favourite song lyric
+$randextra tell us their favourite song
+$randextra tell us their favourite band
+$randextra tell us their favourite singer
+$randextra tell us their favourite actress
+$randextra tell us their favourite actor
+$randextra tell us their favourite Food
+$randextra tell us their favourite Fast Food
+$randextra tell us their favourite meal to prepare at home
+$randextra tell us their favourite meal to bring to a potluck
+$randextra tell us their favourite super hero
+$randextra tell us their favourite Power-up from any game
+$randextra tell us their favourite Video Game Character
+$randextra tell us their favourite restaurant
+$randextra tell us their favourite Junk Food
+$randextra tell us their favourite Ice Cream
+$randextra tell us their favourite Candy
+$randextra tell us their favourite Candy bar
+$randextra tell us their favourite Breakfast Food
+$randextra tell us their favourite thing to cook
+$randextra tell us their favourite Holiday
+$randextra tell us their favourite Simpson's Character
+$randextra tell us their favourite Cartoon Cat
+$randextra tell us their favourite Cartoon Dog
+$randextra tell us their favourite Cartoon Pet
+$randextra tell us their favourite Cartoon
+$randextra tell us their favourite Marvel Movie
+$randextra tell us their favourite Villian 
+$randextra tell us their favourite Disney Movie
+$randextra tell us their favourite TV show that is no longer making new episodes
+$randextra tell us their favourite Action Movie
+$randextra tell us their favourite Comedy Movie
+$randextra tell us their favourite Comedy TV show
+$randextra tell us their favourite Sci-Fi Movie
+$randextra tell us their favourite Sci-Fi TV-Show
+$randextra tell us their favourite Planet besides Earth
+$randextra tell us their favourite Animal
+$randextra tell us their favourite recent movie
+$randextra tell us their favourite Movie that is more than $randnum(5,20) years old
+$randextra tell us their favourite TV show that is more than $randnum(5,20) years old
+$randextra tell us their favourite Song that is more than $randnum(5,20) years old
+$randextra tell us their favourite thing to drink
+$randextra tell us their favourite vaction spot
+$randextra tell us their favourite sports team
+$randextra tell us their favourite sport
+$randextra tell us their favourite non-traditional sport
+$randextra tell us their favourite Anime
+$randextra tell us their favourite Anime Character
+$randextra tell us their favourite Bird
+$randextra tell us their favourite Olympic Sport
+$randextra tell us their favourite Nursery Rhyme
+$randextra tell us their favourite toy as a kid
+$randextra tell us their favouritepresent you have given or received
+$randextra tell us their favourite Halloween Costume you have worn
+$randextra tell us their favourite DND class
+$randextra tell us their favourite Instument
+$randextra tell us their favourite Music Genre
+$randextra tell us their favourite Boy Band
+$randextra tell us their favourite Girl Band
+$randextra tell us their favourite one hit wonder song
+$randextra tell us their favourite place they have been
+$randextra tell us their favourite fictional place that you would want to visit
+$randextra tell us their favourite fictional place
+$randextra tell us their favourite
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

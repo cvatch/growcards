@@ -1,0 +1,19 @@
+$randusername tell us a joke			
+$randusername tell us an interesting fact			
+$randusername count to 10 (1,2,3 etc.)			
+$randusername give $randusername a compliment			
+$randusername post their favourite quote			
+$randusername send us a random emote			
+$randusername tell us their celebrity crush			
+$randusername tell us their Harry Potter House			
+$randusername tell us what they are going to dress up for halloween this year or what you would want to if you were			
+$randusername tell us what they wore for halloween last year			
+$randusername tell us what wild animal you wish you could keep as a pet			
+$randusername tell us if they have a nickname and what it is			
+$randusername write an Onomatopoeia (sound word like; bang, woof, pop, slurp)			
+$randusername write a pangram that is NOT the quick fox jumps over the lazy brown dog ( a Pangram is a sentance that uses every letter of the alahabet at least once)			
+$randusername write a word beginning with each letter of their name or username (e.g. Colin - Constantly Overthinking Life's Interesting Nature)			
+$randusername write an anagram ( anagrams are words that can be rearranged to create another word eg. Listen / Silent)			
+$randusername write out the alaphbet	
+Everyone has to wish $randusername a very merry happy un-birthday (we have a 0.27% chance of being wrong, I like those odds)			
+			
