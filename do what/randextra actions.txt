@@ -35,3 +35,11 @@ $randextra write a pangram that is NOT the quick fox jumps over the lazy brown d
 $randextra write a word beginning with each letter of their name or username (e.g. Colin - Constantly Overthinking Life's Interesting Nature)
 $randextra write an anagram ( anagrams are words that can be rearranged to create another word eg. Listen / Silent)
 $randextra write out the alaphbet
+$randextra post a picture on twitter #sad
+$randextra post a picture on twitter #funny
+$randextra post a picture on twitter #sparkle
+$randextra post a picture on twitter #light
+$randextra post a picture on twitter #dark
+$randextra post a picture on twitter #red
+$randextra post a picture on twitter #blue
+$randextra post a picture on twitter #orange
