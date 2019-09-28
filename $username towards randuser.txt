@@ -1,0 +1,246 @@
+$username threw an Apple at $randusername
+$username threw an Apricot at $randusername
+$username threw an Avocado at $randusername
+$username threw a Banana at $randusername
+$username threw a Blackberry at $randusername
+$username threw a Blueberry at $randusername
+$username threw a Boysenberry at $randusername
+$username threw a Cherry at $randusername
+$username threw a Chico fruit at $randusername
+$username threw a Cloudberry at $randusername
+$username threw a Coconut at $randusername
+$username threw a Cranberry at $randusername
+$username threw a Cucumber at $randusername
+$username threw a Dragonfruit at $randusername
+$username threw an Elderberry at $randusername
+$username threw a Fig at $randusername
+$username threw a Goji berry at $randusername
+$username threw a Gooseberry at $randusername
+$username threw a Grape at $randusername
+$username threw a Raisin at $randusername
+$username threw a Grapefruit at $randusername
+$username threw a Huckleberry at $randusername
+$username threw a Jackfruit at $randusername
+$username threw a Juniper berry at $randusername
+$username threw a Kiwifruit at $randusername
+$username threw a Kumquat at $randusername
+$username threw a Lemon at $randusername
+$username threw a Lime at $randusername
+$username threw a Lychee at $randusername
+$username threw a Mango at $randusername
+$username threw a Melon at $randusername
+$username threw a Cantaloupe at $randusername
+$username threw a Watermelon at $randusername
+$username threw a Miracle fruit at $randusername
+$username threw a Mulberry at $randusername
+$username threw a Nectarine at $randusername
+$username threw an Orange at $randusername
+$username threw a Clementine at $randusername
+$username threw a Mandarine at $randusername
+$username threw a Tangerine at $randusername
+$username threw a Papaya at $randusername
+$username threw a Peach at $randusername
+$username threw a Pear at $randusername
+$username threw a Plum at $randusername
+$username threw a Pineapple at $randusername
+$username threw a Pineberry at $randusername
+$username threw a Pomegranate at $randusername
+$username threw a Raspberry at $randusername
+$username threw a Salmonberry at $randusername
+$username threw a Star fruit at $randusername
+$username threw a Strawberry at $randusername
+$username threw an Avocado at $randusername
+$username threw a Bell pepper at $randusername
+$username threw a Chile pepper at $randusername
+$username threw a Cucumber at $randusername
+$username threw an Eggplant at $randusername
+$username threw an Olive at $randusername
+$username threw a Pumpkin at $randusername
+$username threw a Squash at $randusername
+$username threw a Tomato at $randusername
+$username threw a Zucchini at $randusername
+$username threw an artichoke at $randusername
+$username threw some asparagus at $randusername
+$username threw some bean sprout at $randusername
+$username threw some black beans at $randusername
+$username threw some green beans at $randusername
+$username threw some kidney beans at $randusername
+$username threw some soy beans at $randusername
+$username threw some peas at $randusername
+$username threw some broccoli at $randusername
+$username threw some brussels sprouts at $randusername
+$username threw some cabbage at $randusername
+$username threw some cauliflower at $randusername
+$username threw some celery at $randusername
+$username threw some bok choy at $randusername
+$username threw some kale at $randusername
+$username threw some spinach at $randusername
+$username threw some herbs and spices at $randusername
+$username threw some coriander at $randusername
+$username threw some cilantro at $randusername
+$username threw some dill at $randusername
+$username threw some lavender at $randusername
+$username threw some lemon Grass at $randusername
+$username threw some oregano at $randusername
+$username threw some parsley at $randusername
+$username threw some rosemary at $randusername
+$username threw some sage at $randusername
+$username threw some thyme at $randusername
+$username threw some lettuce at $randusername
+$username threw some arugula at $randusername
+$username threw some mushrooms at $randusername
+$username threw some onions at $randusername
+$username threw some Chives at $randusername
+$username threw some Garlic at $randusername
+$username threw a bell pepper at $randusername
+$username threw a chili pepper at $randusername
+$username threw a Jalapeño pepper at $randusername
+$username threw a Habanero pepper at $randusername
+$username threw a Cayenne pepper at $randusername
+$username threw a carrot at $randusername
+$username threw a radish at $randusername
+$username threw a horseradish at $randusername
+$username threw a potato at $randusername
+$username threw a yam at $randusername
+$username threw a turnip at $randusername
+$username hugged $randusername 
+$username kissed $randusername 
+$username slapped $randusername 
+$username kicked $randusername 
+$username punched $randusername 
+$username danced with $randusername 
+$username pretended to be $randusername 
+$username burned $randusername 
+$username shocked $randusername 
+$username warned $randusername 
+$username annoyed $randusername 
+$username robbed $randusername 
+$username encouraged $randusername 
+$username challenged $randusername 
+$username played with $randusername 
+$username likes $randusername 
+$username loves $randusername 
+$username dreamt of $randusername 
+$username leaned on $randusername 
+$username smelled $randusername 
+$username smiled at $randusername 
+$username gave a gift to $randusername 
+$username touched $randusername 
+$username linked arms with $randusername 
+$username is co-dependent on $randusername 
+$username is robbing a bank with $randusername 
+$username went on a see-saw with $randusername 
+$username went on a swing with $randusername 
+$username went on a roller coaster with $randusername 
+$username went to the moveis with $randusername 
+$username is going to go see a magic show with $randusername 
+$username is in a cult with $randusername 
+$username is stocking $randusername 
+$username is spying on $randusername 
+$username is bonded with $randusername 
+$username has started to fuse with $randusername 
+$username has to whisper to $randusername 
+$username petted $randusername 
+$username is browsing the net witth $randusername 
+$username went dumpster diving with $randusername 
+$username went to the beach with $randusername 
+$username went fishing with $randusername 
+$username went campting with $randusername 
+$username is in a book club with $randusername 
+$username made a Podcast with $randusername 
+$username started a youtube channel with $randusername 
+$username started to wiggle in  $randusername  direction
+$username joined a fantasy league with $randusername 
+$username challenged $randusername  to a Pokemon Battle
+$username challenged $randusername  to Mortal Kombat
+$username challenged $randusername  to Mario Kart
+$username challenged $randusername  to a Race
+$username challenged $randusername  to rock paper scissors
+$username started to charge towards $randusername 
+$username started attacking $randusername 
+$username jumped on $randusername 
+$username licked $randusername 
+$username winked at $randusername 
+$username pointed towards $randusername 
+$username dropped a bomb on $randusername 
+$username shot a cannon at $randusername 
+$username shot an arrow at $randusername 
+$username threw an axe at $randusername 
+$username hit $randusername with a baton
+$username launched a bazooka at $randusername 
+$username shot a blow a dart at $randusername 
+$username hit $randusername with a battle axe
+$username hit $randusername with a billy club
+$username caught $randusername in a boobytrap
+$username hit $randusername with a baseball bat
+$username stabbed $randusername with a bayonet
+$username threw a bomerang at  $randusername and then came back to hit $username
+$username punched $randusername with brass knuckles
+$username shot $randusername out of a canon
+$username smoked a canon with $randusername 
+$username shot $randusername out of a catapult
+$username shot $randusername with a crossbow
+$username hit $randusername on the head with a club
+$username poked $randusername with a dagger
+$username poked $randusername with a dart
+$username blew up $randusername 
+$username charged at $randusername holding a flail
+$username charged at $randusername holding a flamethrower
+$username shot at $randusername with a Gatling gun
+$username shot at $randusername with a guided missle
+$username threw a grenade at $randusername 
+$username harpooned $randusername 
+$username cut $randusername with a hunting knife
+$username threw a javelin at $randusername 
+$username approached $randusername weilding a katana
+$username approached $randusername weilding a longsword
+$username approached $randusername weilding a longbow
+$username approached $randusername weilding a mace
+$username approached $randusername weilding a machete
+$username approached $randusername weilding a pike
+$username stepped on a landmine
+$username shot an arrow at $randusername from a long bow
+$username shot an arrow at $randusername from a short bow
+$username shot an arrow at $randusername from a crossbow
+$username stabbed themselves with a longsword
+$username hit themselves with a mace
+$username cut themselves with a machete
+$username chocked onmustard gas
+$username swung around nunchucks at $randusername visciously
+$username swung around nunchucks at $randusername intensely
+$username hit themselves in the face with nunchucks
+$username shot at $randusername with a pea shooter
+$username sprayed pepper spray at $randusername 
+$username sprayed bear mace at $randusername 
+$username pistol whipped $randusername 
+$username swung at $randusername with a pickaxe
+$username hit $randusername with a quarterstaff
+$username tripped over a quarterstaff
+$username tripped over a rake
+$username tripped over a shovel
+$username tripped over a trip wire
+$username stepped in a  puddle
+$username stepped in a hole
+$username stepped in a puddle of slime
+$username stepped in a puddle of mud
+$username stepped in a puddle of water
+$username stepped in a puddle of mayo
+$username challenged $randusername to a sword fight
+$username lauched a rocket at $randusername 
+$username shot a rocket launcher at $randusername 
+$username shot a slightshot at $randusername 
+$username cut themselves with a  switchblade
+$username approached $randusername wielding a scimitar
+$username threw a shell at $randusername 
+$username threw a spear at $randusername 
+$username used a stungun on $randusername 
+$username swung at $randusername with a scythe
+$username swung at $randusername with a sickle
+$username swung at $randusername spiked mace
+$username got into a tank and is driving towards $randusername 
+$username launched a trebuchet at $randusername 
+$username threw a tomahawk at $randusername 
+$username stabbed $randusername with a trident
+$username used a taser on $randusername 
+$username launched a torpedo at $randusername 
+$username whipped $randusername
