@@ -1,0 +1,102 @@
+{
+   "output_file": "settings.json",
+   "OnlyWhenLive": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Only when live",
+    "tooltip": "",
+    "group": "General"
+   },
+   "EnableOfflineMessage": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Enable Offline Message",
+    "tooltip": "",
+    "group": "General"
+   },
+   "MessageOfflineStream": {
+    "type": "textbox",
+    "value": "Nice try $user but the stream isn't live :p",
+    "label": "Offline Message",
+    "tooltip": "Message the bot will send to anyone when stream is Offline\r\nAvailable parameters:\r\n  $user",
+    "group": "General"
+  },
+    "Commands": {
+    "type": "textbox",
+    "value": "!first first",
+    "label": "Commands",
+    "tooltip": "Words the bot will be looking for, leave a space between each word to add more.",
+    "group": "First"
+  },
+  "RewardFirst": {
+    "type": "numberbox",
+    "label": "Reward",
+    "value": 100,
+    "tooltip": "How many points will be rewarded for the first user.",
+    "group": "First"
+  },
+    "MessageRewardFirst": {
+    "type": "textbox",
+    "value": "Whooohooo! $user is first and gets $value $currencyname!! PogChamp",
+    "label": "Reward Message",
+    "tooltip": "Message the bot will send to the first user\r\nAvailable parameters:\r\n  $user\r\n  $value\r\n  $currencyname",
+    "group": "First"
+  },
+  "MessageTooLate": {
+    "type": "textbox",
+    "value": "Sorry $user. You were too slow today. FeelsBadMan",
+    "label": "Too late Message",
+    "tooltip": "Message the bot will send to everyone late.\r\nAvailable parameters:\r\n  $user\r\n  $first = user who got the first reward\r\n  $second = user who got the second reward\r\n  $third = user who got the third reward",
+    "group": "First"
+  },
+  "ResetFirst": {
+    "type": "button",
+    "label": "Reset First",
+    "tooltip": "If you want to \"replay\" the who's first game, hit this button.\r\nThe game is automatically reset went the bot is opened or if you reload the scripts.",
+    "function": "ResetFirst",
+    "wsevent": "",
+    "group": "First"
+  },
+  "EnableSecond": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Enable Reward for the Second",
+    "tooltip": "",
+    "group": "Second"
+   },
+  "RewardSecond": {
+    "type": "numberbox",
+    "label": "Reward",
+    "value": 50,
+    "tooltip": "How many points will be rewarded.",
+    "group": "Second"
+  },
+    "MessageRewardSecond": {
+    "type": "textbox",
+    "value": "Sorry $user. You are not first today but as second you get $value $currencyname!! PogChamp",
+    "label": "Reward Message",
+    "tooltip": "Message the bot will send to the second user\r\nAvailable parameters:\r\n  $user\r\n  $value\r\n  $currencyname\r\n  $first = user who got the first reward",
+    "group": "Second"
+  },
+  "EnableThird": {
+    "type": "checkbox",
+    "value": true,
+    "label": "Enable Reward for the Third",
+    "tooltip": "",
+    "group": "Third"
+   },
+  "RewardThird": {
+    "type": "numberbox",
+    "label": "Reward",
+    "value": 25,
+    "tooltip": "How many points will be rewarded.",
+    "group": "Third"
+  },
+    "MessageRewardThird": {
+    "type": "textbox",
+    "value": "Sorry $user. You are not first today but as third you get $value $currencyname!! PogChamp",
+    "label": "Reward Message",
+    "tooltip": "Message the bot will send to the third user\r\nAvailable parameters:\r\n  $user\r\n  $value\r\n  $currencyname\r\n  $first = user who got the first reward\r\n  $second = user who got the second reward",
+    "group": "Third"
+  }
+}
