@@ -1,0 +1,34 @@
+Hello, sunshine!
+Howdy, partner!
+Hey, howdy, hi!
+What’s kickin’, little chicken?
+Peek-a-boo!
+Howdy-doody!
+Hey there, freshman!
+My name's Ralph, and I'm a bad guy.
+Hi, mister!
+I come in peace!
+Put that cookie down!
+Ahoy, matey!
+Hiya $username!!
+‘Ello, mate.
+Heeey, baaaaaby.
+Hi, honeybunch!
+Oh, yoooouhoooo! $username!
+How you doin' $username!?
+I like your face $username!.
+What's cookin', good lookin'?
+Howdy, miss/mr./mx.
+Why, hello there $username!!
+Hey, boo.
+Aloha: $username!
+Hola: $username!
+Que pasa: $username!
+Bonjour: $username!
+Hallo $username!
+Ciao $username
+Konnichiwa $username
+I hope you're doing well $username
+I hope you're having a great week $username
+I hope you're having a wonderful day $username
+It's great to hear from you $username!

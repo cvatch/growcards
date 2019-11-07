@@ -1,0 +1,1836 @@
+$username used Double-Edge on  $randuser, it was super effective!
+$username used Nuzzle on  $randuser, it was super effective!
+$username used Discharge on  $randuser, critical hit!!!
+$username used Dragon Ascent on  $randuser, critical hit!!!
+$username used Draining Kiss on  $randuser, it was not very effective (
+$username used Foresight on  $randuser, it was not very effective (
+$username used Fake Out on  $randuser, critical hit!!!
+$username used Assist on  $randuser, it was not very effective (
+$username used Toxic Spikes on  $randuser, it was not very effective (
+$username used Vacuum Wave on  $randuser, it was super effective!
+$username used Mirror Move on  $randuser, critical hit!!!
+$username used Grass Whistle on  $randuser, critical hit!!!
+$username used Final Gambit on  $randuser, it was not very effective (
+$username used Acid on  $randuser, it was not very effective (
+$username used Hidden Power on  $randuser, it was not very effective (
+$username used Metal Claw on  $randuser, critical hit!!!
+$username used Counter on  $randuser, it was super effective!
+$username used Megahorn on  $randuser, it was not very effective (
+$username used Final Gambit on  $randuser, it was super effective!
+$username used Frost Breath on  $randuser, critical hit!!!
+$username used False Swipe on  $randuser, it was not very effective (
+$username used Dragon Tail on  $randuser, it was not very effective (
+$username used Hypnosis on  $randuser, critical hit!!!
+$username used Iron Head on  $randuser, it was super effective!
+$username used Charm on  $randuser, critical hit!!!
+$username used Leech Seed on  $randuser, it was not very effective (
+$username used Tri Attack on  $randuser, it was super effective!
+$username used Fairy Wind on  $randuser, it was super effective!
+$username used Covet on  $randuser, it was not very effective (
+$username used Last Resort on  $randuser, critical hit!!!
+$username used Flatter on  $randuser, critical hit!!!
+$username used Gunk Shot on  $randuser, critical hit!!!
+$username used Lucky Chant on  $randuser, it was not very effective (
+$username used Fury Cutter on  $randuser, it was super effective!
+$username used Smog on  $randuser, critical hit!!!
+$username used Conversion 2 on  $randuser, critical hit!!!
+$username used Present on  $randuser, it was not very effective (
+$username used Flame Burst on  $randuser, it was super effective!
+$username used Gastro Acid on  $randuser, critical hit!!!
+$username used Ice Shard on  $randuser, it was not very effective (
+$username used Wrap on  $randuser, critical hit!!!
+$username used Metal Sound on  $randuser, critical hit!!!
+$username used Cosmic Power on  $randuser, it was super effective!
+$username used Follow Me on  $randuser, it was not very effective (
+$username used Fake Tears on  $randuser, critical hit!!!
+$username used Strength on  $randuser, it was super effective!
+$username used Ice Beam on  $randuser, critical hit!!!
+$username used Tail Glow on  $randuser, critical hit!!!
+$username used Roar of Time on  $randuser, critical hit!!!
+$username used Snatch on  $randuser, critical hit!!!
+$username used Cross Poison on  $randuser, it was super effective!
+$username used Horn Drill on  $randuser, it was not very effective (
+$username used Head Charge on  $randuser, it was super effective!
+$username used Tail Slap on  $randuser, it was not very effective (
+$username used Twister on  $randuser, it was not very effective (
+$username used Ice Ball on  $randuser, critical hit!!!
+$username used Sludge Wave on  $randuser, critical hit!!!
+$username used Soft-Boiled on  $randuser, critical hit!!!
+$username used Sacred Fire on  $randuser, critical hit!!!
+$username used Powder on  $randuser, critical hit!!!
+$username used Attack Order on  $randuser, critical hit!!!
+$username used Play Rough on  $randuser, it was super effective!
+$username used Psychic on  $randuser, it was not very effective (
+$username used Hurricane on  $randuser, it was not very effective (
+$username used Parabolic Charge on  $randuser, it was super effective!
+$username used Dragon Rage on  $randuser, it was super effective!
+$username used Lovely Kiss on  $randuser, it was super effective!
+$username used Struggle Bug on  $randuser, critical hit!!!
+$username used Thunder Punch on  $randuser, it was super effective!
+$username used Slam on  $randuser, it was super effective!
+$username used Outrage on  $randuser, it was super effective!
+$username used Air Slash on  $randuser, it was super effective!
+$username used Submission on  $randuser, it was not very effective (
+$username used Shadow Punch on  $randuser, it was super effective!
+$username used Seed Flare on  $randuser, it was not very effective (
+$username used Work Up on  $randuser, it was not very effective (
+$username used Circle Throw on  $randuser, it was super effective!
+$username used Fury Attack on  $randuser, it was super effective!
+$username used Ally Switch on  $randuser, critical hit!!!
+$username used Hail on  $randuser, it was not very effective (
+$username used Dragon Dance on  $randuser, it was super effective!
+$username used Lock-On on  $randuser, it was super effective!
+$username used Spite on  $randuser, it was not very effective (
+$username used Dragon Dance on  $randuser, it was not very effective (
+$username used Sleep Powder on  $randuser, it was super effective!
+$username used Storm Throw on  $randuser, it was not very effective (
+$username used Focus Punch on  $randuser, critical hit!!!
+$username used Relic Song on  $randuser, critical hit!!!
+$username used Double Hit on  $randuser, it was super effective!
+$username used Magnet Bomb on  $randuser, critical hit!!!
+$username used Cosmic Power on  $randuser, critical hit!!!
+$username used Thrash on  $randuser, it was super effective!
+$username used Disarming Voice on  $randuser, critical hit!!!
+$username used Bolt Strike on  $randuser, it was super effective!
+$username used Acupressure on  $randuser, it was super effective!
+$username used Energy Ball on  $randuser, critical hit!!!
+$username used Meteor Mash on  $randuser, critical hit!!!
+$username used Comet Punch on  $randuser, critical hit!!!
+$username used Fire Spin on  $randuser, it was not very effective (
+$username used Magnetic Flux on  $randuser, it was not very effective (
+$username used Seed Bomb on  $randuser, it was super effective!
+$username used Dream Eater on  $randuser, it was super effective!
+$username used Aerial Ace on  $randuser, it was super effective!
+$username used Ice Punch on  $randuser, it was not very effective (
+$username used Secret Power on  $randuser, critical hit!!!
+$username used Boomburst on  $randuser, it was super effective!
+$username used Poison Jab on  $randuser, it was super effective!
+$username used Psycho Boost on  $randuser, it was super effective!
+$username used Waterfall on  $randuser, it was super effective!
+$username used Twineedle on  $randuser, it was super effective!
+$username used Rollout on  $randuser, it was not very effective (
+$username used Psywave on  $randuser, critical hit!!!
+$username used Sand Attack on  $randuser, it was super effective!
+$username used Focus Punch on  $randuser, it was super effective!
+$username used Torment on  $randuser, critical hit!!!
+$username used Thrash on  $randuser, it was not very effective (
+$username used Self-Destruct on  $randuser, critical hit!!!
+$username used Play Rough on  $randuser, critical hit!!!
+$username used Incinerate on  $randuser, critical hit!!!
+$username used Smack Down on  $randuser, it was not very effective (
+$username used Freeze Shock on  $randuser, it was super effective!
+$username used Flash Cannon on  $randuser, it was not very effective (
+$username used Recover on  $randuser, it was super effective!
+$username used Dual Chop on  $randuser, it was not very effective (
+$username used Ice Punch on  $randuser, critical hit!!!
+$username used Mud Shot on  $randuser, it was super effective!
+$username used Magnet Bomb on  $randuser, it was not very effective (
+$username used Vacuum Wave on  $randuser, critical hit!!!
+$username used Shadow Force on  $randuser, it was not very effective (
+$username used Bubble Beam on  $randuser, it was not very effective (
+$username used Giga Impact on  $randuser, it was not very effective (
+$username used Cross Poison on  $randuser, it was not very effective (
+$username used Thunder on  $randuser, critical hit!!!
+$username used Moonlight on  $randuser, critical hit!!!
+$username used Ancient Power on  $randuser, critical hit!!!
+$username used Withdraw on  $randuser, critical hit!!!
+$username used Sonic Boom on  $randuser, critical hit!!!
+$username used Hurricane on  $randuser, it was super effective!
+$username used Guillotine on  $randuser, critical hit!!!
+$username used Psych Up on  $randuser, critical hit!!!
+$username used Volt Tackle on  $randuser, it was super effective!
+$username used Conversion on  $randuser, it was not very effective (
+$username used Blue Flare on  $randuser, it was super effective!
+$username used Double Team on  $randuser, it was not very effective (
+$username used Heart Swap on  $randuser, critical hit!!!
+$username used Counter on  $randuser, it was not very effective (
+$username used Trick on  $randuser, critical hit!!!
+$username used Uproar on  $randuser, critical hit!!!
+$username used Double Kick on  $randuser, critical hit!!!
+$username used Nasty Plot on  $randuser, it was super effective!
+$username used Encore on  $randuser, it was super effective!
+$username used Avalanche on  $randuser, critical hit!!!
+$username used Volt Tackle on  $randuser, critical hit!!!
+$username used Smokescreen on  $randuser, it was super effective!
+$username used Simple Beam on  $randuser, it was super effective!
+$username used Head Smash on  $randuser, it was super effective!
+$username used Attract on  $randuser, it was not very effective (
+$username used Sheer Cold on  $randuser, it was super effective!
+$username used Hydro Cannon on  $randuser, critical hit!!!
+$username used Bounce on  $randuser, it was not very effective (
+$username used Heart Stamp on  $randuser, it was super effective!
+$username used Charm on  $randuser, it was not very effective (
+$username used Poison Tail on  $randuser, it was super effective!
+$username used Payback on  $randuser, it was super effective!
+$username used Crush Claw on  $randuser, it was not very effective (
+$username used Octazooka on  $randuser, critical hit!!!
+$username used Bullet Seed on  $randuser, it was not very effective (
+$username used Leer on  $randuser, critical hit!!!
+$username used Bone Rush on  $randuser, it was not very effective (
+$username used Destiny Bond on  $randuser, critical hit!!!
+$username used After You on  $randuser, it was not very effective (
+$username used Shadow Punch on  $randuser, critical hit!!!
+$username used Disarming Voice on  $randuser, it was not very effective (
+$username used Sheer Cold on  $randuser, critical hit!!!
+$username used Zap Cannon on  $randuser, it was super effective!
+$username used Dive on  $randuser, it was not very effective (
+$username used Synthesis on  $randuser, critical hit!!!
+$username used Topsy-Turvy on  $randuser, it was super effective!
+$username used Clamp on  $randuser, it was not very effective (
+$username used Slash on  $randuser, it was super effective!
+$username used Autotomize on  $randuser, it was super effective!
+$username used Haze on  $randuser, critical hit!!!
+$username used Doom Desire on  $randuser, it was not very effective (
+$username used Trick on  $randuser, it was not very effective (
+$username used Mimic on  $randuser, it was super effective!
+$username used Miracle Eye on  $randuser, critical hit!!!
+$username used Last Resort on  $randuser, it was super effective!
+$username used Sacred Sword on  $randuser, critical hit!!!
+$username used Reflect Type on  $randuser, it was super effective!
+$username used Dragon Rage on  $randuser, critical hit!!!
+$username used Copycat on  $randuser, it was not very effective (
+$username used Psycho Shift on  $randuser, critical hit!!!
+$username used Happy Hour on  $randuser, it was not very effective (
+$username used Flame Charge on  $randuser, it was not very effective (
+$username used Fiery Dance on  $randuser, critical hit!!!
+$username used Skull Bash on  $randuser, critical hit!!!
+$username used Mud Sport on  $randuser, critical hit!!!
+$username used Taunt on  $randuser, it was not very effective (
+$username used Transform on  $randuser, critical hit!!!
+$username used Tail Whip on  $randuser, it was super effective!
+$username used Astonish on  $randuser, critical hit!!!
+$username used Attract on  $randuser, it was super effective!
+$username used Judgment on  $randuser, critical hit!!!
+$username used Scald on  $randuser, it was not very effective (
+$username used Leaf Blade on  $randuser, it was not very effective (
+$username used Guard Swap on  $randuser, it was not very effective (
+$username used Heart Stamp on  $randuser, it was not very effective (
+$username used Self-Destruct on  $randuser, it was not very effective (
+$username used Destiny Bond on  $randuser, it was super effective!
+$username used Cross Chop on  $randuser, it was not very effective (
+$username used Psycho Shift on  $randuser, it was super effective!
+$username used Storm Throw on  $randuser, it was super effective!
+$username used Foul Play on  $randuser, it was not very effective (
+$username used Curse on  $randuser, it was super effective!
+$username used Mega Kick on  $randuser, it was super effective!
+$username used Will-O-Wisp on  $randuser, it was not very effective (
+$username used Bulldoze on  $randuser, critical hit!!!
+$username used Mud Bomb on  $randuser, critical hit!!!
+$username used Sky Uppercut on  $randuser, it was not very effective (
+$username used Dragon Pulse on  $randuser, it was not very effective (
+$username used Ancient Power on  $randuser, it was not very effective (
+$username used Head Charge on  $randuser, critical hit!!!
+$username used Hyper Fang on  $randuser, it was super effective!
+$username used Helping Hand on  $randuser, it was not very effective (
+$username used Freeze-Dry on  $randuser, it was not very effective (
+$username used Bubble Beam on  $randuser, it was super effective!
+$username used Heal Pulse on  $randuser, it was not very effective (
+$username used Ingrain on  $randuser, critical hit!!!
+$username used Sleep Talk on  $randuser, it was not very effective (
+$username used Wing Attack on  $randuser, critical hit!!!
+$username used Draining Kiss on  $randuser, critical hit!!!
+$username used Hydro Cannon on  $randuser, it was super effective!
+$username used Flash Cannon on  $randuser, critical hit!!!
+$username used Aura Sphere on  $randuser, it was super effective!
+$username used Searing Shot on  $randuser, critical hit!!!
+$username used Dive on  $randuser, it was super effective!
+$username used Vital Throw on  $randuser, critical hit!!!
+$username used Grassy Terrain on  $randuser, critical hit!!!
+$username used Bonemerang on  $randuser, it was super effective!
+$username used Megahorn on  $randuser, it was super effective!
+$username used Rock Throw on  $randuser, it was not very effective (
+$username used Dynamic Punch on  $randuser, it was super effective!
+$username used Fissure on  $randuser, it was super effective!
+$username used Bullet Punch on  $randuser, critical hit!!!
+$username used Close Combat on  $randuser, it was super effective!
+$username used Rock Throw on  $randuser, it was super effective!
+$username used Healing Wish on  $randuser, it was super effective!
+$username used Lava Plume on  $randuser, critical hit!!!
+$username used Flash Cannon on  $randuser, it was super effective!
+$username used Defog on  $randuser, it was super effective!
+$username used Guard Swap on  $randuser, critical hit!!!
+$username used Aeroblast on  $randuser, it was super effective!
+$username used Toxic Spikes on  $randuser, critical hit!!!
+$username used Heal Pulse on  $randuser, it was super effective!
+$username used Revenge on  $randuser, it was super effective!
+$username used Parabolic Charge on  $randuser, it was not very effective (
+$username used Razor Leaf on  $randuser, critical hit!!!
+$username used Facade on  $randuser, it was super effective!
+$username used Chip Away on  $randuser, critical hit!!!
+$username used Mirror Coat on  $randuser, critical hit!!!
+$username used Tailwind on  $randuser, it was not very effective (
+$username used Flame Charge on  $randuser, it was super effective!
+$username used Freeze Shock on  $randuser, critical hit!!!
+$username used Double Team on  $randuser, critical hit!!!
+$username used Baby-Doll Eyes on  $randuser, it was super effective!
+$username used Phantom Force on  $randuser, it was super effective!
+$username used Assist on  $randuser, critical hit!!!
+$username used U-turn on  $randuser, critical hit!!!
+$username used Flail on  $randuser, critical hit!!!
+$username used Rock Blast on  $randuser, it was not very effective (
+$username used Shock Wave on  $randuser, it was not very effective (
+$username used Hex on  $randuser, it was not very effective (
+$username used Vital Throw on  $randuser, it was super effective!
+$username used Dazzling Gleam on  $randuser, it was super effective!
+$username used Autotomize on  $randuser, it was not very effective (
+$username used Pursuit on  $randuser, it was not very effective (
+$username used Sludge Bomb on  $randuser, it was super effective!
+$username used Mat Block on  $randuser, critical hit!!!
+$username used Metal Burst on  $randuser, it was not very effective (
+$username used Play Nice on  $randuser, it was not very effective (
+$username used Wood Hammer on  $randuser, it was super effective!
+$username used Grass Pledge on  $randuser, it was super effective!
+$username used Tail Slap on  $randuser, critical hit!!!
+$username used Outrage on  $randuser, critical hit!!!
+$username used Snarl on  $randuser, it was super effective!
+$username used Superpower on  $randuser, it was super effective!
+$username used Meteor Mash on  $randuser, it was not very effective (
+$username used Ice Burn on  $randuser, critical hit!!!
+$username used Covet on  $randuser, it was super effective!
+$username used Origin Pulse on  $randuser, it was not very effective (
+$username used Solar Beam on  $randuser, it was super effective!
+$username used Meditate on  $randuser, it was not very effective (
+$username used Thunder Shock on  $randuser, critical hit!!!
+$username used Shell Smash on  $randuser, critical hit!!!
+$username used Trick-or-Treat on  $randuser, critical hit!!!
+$username used Bounce on  $randuser, critical hit!!!
+$username used Sacred Sword on  $randuser, it was super effective!
+$username used Signal Beam on  $randuser, it was super effective!
+$username used Focus Blast on  $randuser, it was not very effective (
+$username used Light Screen on  $randuser, it was super effective!
+$username used Ember on  $randuser, it was super effective!
+$username used Happy Hour on  $randuser, it was super effective!
+$username used Belly Drum on  $randuser, it was super effective!
+$username used Water Pledge on  $randuser, critical hit!!!
+$username used Chip Away on  $randuser, it was not very effective (
+$username used Mind Reader on  $randuser, critical hit!!!
+$username used Flame Charge on  $randuser, critical hit!!!
+$username used Fury Attack on  $randuser, it was not very effective (
+$username used Horn Attack on  $randuser, critical hit!!!
+$username used Leaf Storm on  $randuser, it was super effective!
+$username used After You on  $randuser, critical hit!!!
+$username used Aura Sphere on  $randuser, it was not very effective (
+$username used Scary Face on  $randuser, critical hit!!!
+$username used Chatter on  $randuser, it was super effective!
+$username used Heal Bell on  $randuser, it was not very effective (
+$username used Sunny Day on  $randuser, it was not very effective (
+$username used Confide on  $randuser, it was not very effective (
+$username used Icy Wind on  $randuser, critical hit!!!
+$username used Perish Song on  $randuser, critical hit!!!
+$username used Grudge on  $randuser, it was super effective!
+$username used Sharpen on  $randuser, it was super effective!
+$username used Sweet Scent on  $randuser, it was super effective!
+$username used Withdraw on  $randuser, it was super effective!
+$username used Spite on  $randuser, it was super effective!
+$username used Cotton Guard on  $randuser, critical hit!!!
+$username used Sand Tomb on  $randuser, critical hit!!!
+$username used Memento on  $randuser, critical hit!!!
+$username used Poison Fang on  $randuser, it was not very effective (
+$username used Spike Cannon on  $randuser, it was not very effective (
+$username used Flame Burst on  $randuser, it was not very effective (
+$username used Power Whip on  $randuser, it was super effective!
+$username used Outrage on  $randuser, it was not very effective (
+$username used Psystrike on  $randuser, critical hit!!!
+$username used Poison Fang on  $randuser, it was super effective!
+$username used Belly Drum on  $randuser, critical hit!!!
+$username used Secret Power on  $randuser, it was not very effective (
+$username used Dream Eater on  $randuser, it was not very effective (
+$username used Smelling Salts on  $randuser, it was not very effective (
+$username used Gear Grind on  $randuser, it was not very effective (
+$username used Circle Throw on  $randuser, critical hit!!!
+$username used Spacial Rend on  $randuser, critical hit!!!
+$username used Brick Break on  $randuser, it was super effective!
+$username used Memento on  $randuser, it was not very effective (
+$username used Stun Spore on  $randuser, it was super effective!
+$username used Water Sport on  $randuser, critical hit!!!
+$username used Low Kick on  $randuser, it was super effective!
+$username used Mystical Fire on  $randuser, it was not very effective (
+$username used Metal Claw on  $randuser, it was super effective!
+$username used Light of Ruin on  $randuser, it was not very effective (
+$username used Magnet Bomb on  $randuser, it was super effective!
+$username used Stealth Rock on  $randuser, critical hit!!!
+$username used Light of Ruin on  $randuser, it was super effective!
+$username used Magnetic Flux on  $randuser, it was super effective!
+$username used Punishment on  $randuser, it was not very effective (
+$username used Aqua Ring on  $randuser, it was not very effective (
+$username used Double Kick on  $randuser, it was super effective!
+$username used Whirlpool on  $randuser, critical hit!!!
+$username used Rest on  $randuser, critical hit!!!
+$username used Force Palm on  $randuser, it was super effective!
+$username used Dragon Breath on  $randuser, it was super effective!
+$username used Struggle Bug on  $randuser, it was super effective!
+$username used Sky Uppercut on  $randuser, it was super effective!
+$username used Quash on  $randuser, it was not very effective (
+$username used Snatch on  $randuser, it was not very effective (
+$username used Lick on  $randuser, critical hit!!!
+$username used Psybeam on  $randuser, it was super effective!
+$username used Eruption on  $randuser, it was super effective!
+$username used Crush Grip on  $randuser, it was super effective!
+$username used Uproar on  $randuser, it was super effective!
+$username used Zap Cannon on  $randuser, it was not very effective (
+$username used Precipice Blades on  $randuser, critical hit!!!
+$username used Powder on  $randuser, it was not very effective (
+$username used Punishment on  $randuser, critical hit!!!
+$username used Toxic on  $randuser, critical hit!!!
+$username used Steam Eruption on  $randuser, it was not very effective (
+$username used Spike Cannon on  $randuser, it was super effective!
+$username used Egg Bomb on  $randuser, it was super effective!
+$username used Pin Missile on  $randuser, critical hit!!!
+$username used Icicle Crash on  $randuser, it was not very effective (
+$username used Confusion on  $randuser, it was not very effective (
+$username used Dragon Dance on  $randuser, critical hit!!!
+$username used Barrier on  $randuser, critical hit!!!
+$username used Avalanche on  $randuser, it was super effective!
+$username used Refresh on  $randuser, it was not very effective (
+$username used Night Slash on  $randuser, it was not very effective (
+$username used Rapid Spin on  $randuser, critical hit!!!
+$username used Hydro Pump on  $randuser, it was not very effective (
+$username used Water Gun on  $randuser, it was not very effective (
+$username used Dragon Rush on  $randuser, critical hit!!!
+$username used Electroweb on  $randuser, it was not very effective (
+$username used Counter on  $randuser, critical hit!!!
+$username used Wild Charge on  $randuser, it was not very effective (
+$username used Skull Bash on  $randuser, it was not very effective (
+$username used Mega Drain on  $randuser, it was super effective!
+$username used Gear Grind on  $randuser, critical hit!!!
+$username used Mirror Move on  $randuser, it was not very effective (
+$username used Cross Chop on  $randuser, it was super effective!
+$username used Rototiller on  $randuser, critical hit!!!
+$username used Sleep Powder on  $randuser, it was not very effective (
+$username used Aeroblast on  $randuser, it was not very effective (
+$username used Night Shade on  $randuser, it was not very effective (
+$username used Rapid Spin on  $randuser, it was not very effective (
+$username used Aerial Ace on  $randuser, it was not very effective (
+$username used Me First on  $randuser, it was super effective!
+$username used Dark Pulse on  $randuser, it was not very effective (
+$username used Hex on  $randuser, critical hit!!!
+$username used Tailwind on  $randuser, it was super effective!
+$username used Guillotine on  $randuser, it was not very effective (
+$username used Gastro Acid on  $randuser, it was super effective!
+$username used Quiver Dance on  $randuser, it was super effective!
+$username used Brine on  $randuser, it was super effective!
+$username used Petal Blizzard on  $randuser, it was not very effective (
+$username used Razor Wind on  $randuser, it was not very effective (
+$username used Glaciate on  $randuser, critical hit!!!
+$username used Psyshock on  $randuser, critical hit!!!
+$username used Snore on  $randuser, it was super effective!
+$username used Return on  $randuser, it was super effective!
+$username used Thousand Waves on  $randuser, it was super effective!
+$username used Low Kick on  $randuser, critical hit!!!
+$username used Iron Tail on  $randuser, it was super effective!
+$username used Diamond Storm on  $randuser, it was super effective!
+$username used Power-Up Punch on  $randuser, it was super effective!
+$username used Megahorn on  $randuser, critical hit!!!
+$username used Dive on  $randuser, critical hit!!!
+$username used Horn Attack on  $randuser, it was super effective!
+$username used Endeavor on  $randuser, critical hit!!!
+$username used Bug Buzz on  $randuser, it was not very effective (
+$username used Role Play on  $randuser, critical hit!!!
+$username used Seismic Toss on  $randuser, it was not very effective (
+$username used Jump Kick on  $randuser, critical hit!!!
+$username used Thunder on  $randuser, it was super effective!
+$username used Camouflage on  $randuser, it was not very effective (
+$username used Ice Burn on  $randuser, it was not very effective (
+$username used Double Team on  $randuser, it was super effective!
+$username used String Shot on  $randuser, critical hit!!!
+$username used Sing on  $randuser, it was super effective!
+$username used Sludge on  $randuser, critical hit!!!
+$username used Light of Ruin on  $randuser, critical hit!!!
+$username used Hidden Power on  $randuser, critical hit!!!
+$username used Guard Swap on  $randuser, it was super effective!
+$username used Calm Mind on  $randuser, it was not very effective (
+$username used Guard Split on  $randuser, it was not very effective (
+$username used Shock Wave on  $randuser, critical hit!!!
+$username used Flash on  $randuser, it was super effective!
+$username used Twineedle on  $randuser, it was not very effective (
+$username used Fairy Lock on  $randuser, critical hit!!!
+$username used Karate Chop on  $randuser, it was super effective!
+$username used Power Split on  $randuser, it was super effective!
+$username used Stored Power on  $randuser, it was super effective!
+$username used Sky Attack on  $randuser, critical hit!!!
+$username used Dragon Pulse on  $randuser, critical hit!!!
+$username used Water Gun on  $randuser, it was super effective!
+$username used Metronome on  $randuser, it was super effective!
+$username used Sweet Scent on  $randuser, critical hit!!!
+$username used Cotton Guard on  $randuser, it was not very effective (
+$username used Growl on  $randuser, it was not very effective (
+$username used Bullet Punch on  $randuser, it was super effective!
+$username used Tail Glow on  $randuser, it was not very effective (
+$username used Surf on  $randuser, it was not very effective (
+$username used Bubble on  $randuser, it was not very effective (
+$username used Pound on  $randuser, critical hit!!!
+$username used Grass Knot on  $randuser, critical hit!!!
+$username used Fusion Bolt on  $randuser, it was super effective!
+$username used Aqua Tail on  $randuser, critical hit!!!
+$username used Future Sight on  $randuser, critical hit!!!
+$username used Embargo on  $randuser, critical hit!!!
+$username used Role Play on  $randuser, it was not very effective (
+$username used Silver Wind on  $randuser, it was super effective!
+$username used Curse on  $randuser, it was not very effective (
+$username used Parabolic Charge on  $randuser, critical hit!!!
+$username used Disable on  $randuser, it was super effective!
+$username used Aromatherapy on  $randuser, it was not very effective (
+$username used Misty Terrain on  $randuser, it was super effective!
+$username used Defend Order on  $randuser, critical hit!!!
+$username used Flatter on  $randuser, it was not very effective (
+$username used Gear Grind on  $randuser, it was super effective!
+$username used Toxic on  $randuser, it was super effective!
+$username used Dragon Ascent on  $randuser, it was not very effective (
+$username used Psyshock on  $randuser, it was not very effective (
+$username used Leaf Blade on  $randuser, it was super effective!
+$username used Tackle on  $randuser, it was super effective!
+$username used Inferno on  $randuser, it was not very effective (
+$username used Signal Beam on  $randuser, it was not very effective (
+$username used Swagger on  $randuser, it was not very effective (
+$username used Teleport on  $randuser, critical hit!!!
+$username used Gyro Ball on  $randuser, critical hit!!!
+$username used Bone Rush on  $randuser, critical hit!!!
+$username used Switcheroo on  $randuser, it was not very effective (
+$username used Giga Drain on  $randuser, it was not very effective (
+$username used Razor Wind on  $randuser, critical hit!!!
+$username used Present on  $randuser, critical hit!!!
+$username used Harden on  $randuser, it was super effective!
+$username used Coil on  $randuser, it was not very effective (
+$username used Avalanche on  $randuser, it was not very effective (
+$username used Growl on  $randuser, critical hit!!!
+$username used Splash on  $randuser, it was not very effective (
+$username used Crush Claw on  $randuser, it was super effective!
+$username used Luster Purge on  $randuser, it was super effective!
+$username used Miracle Eye on  $randuser, it was not very effective (
+$username used Natural Gift on  $randuser, it was super effective!
+$username used Aeroblast on  $randuser, critical hit!!!
+$username used Magnet Rise on  $randuser, it was not very effective (
+$username used Protect on  $randuser, critical hit!!!
+$username used Splash on  $randuser, critical hit!!!
+$username used Entrainment on  $randuser, critical hit!!!
+$username used Roost on  $randuser, critical hit!!!
+$username used Wonder Room on  $randuser, it was super effective!
+$username used Wring Out on  $randuser, critical hit!!!
+$username used Acid Armor on  $randuser, critical hit!!!
+$username used Hyperspace Fury on  $randuser, critical hit!!!
+$username used Coil on  $randuser, it was super effective!
+$username used Stored Power on  $randuser, critical hit!!!
+$username used Confuse Ray on  $randuser, it was not very effective (
+$username used Meditate on  $randuser, critical hit!!!
+$username used Celebrate on  $randuser, it was not very effective (
+$username used Iron Head on  $randuser, critical hit!!!
+$username used Dream Eater on  $randuser, critical hit!!!
+$username used Sludge on  $randuser, it was super effective!
+$username used Crabhammer on  $randuser, it was not very effective (
+$username used Quick Attack on  $randuser, critical hit!!!
+$username used Needle Arm on  $randuser, critical hit!!!
+$username used Teeter Dance on  $randuser, it was super effective!
+$username used Thunder Wave on  $randuser, it was not very effective (
+$username used Close Combat on  $randuser, critical hit!!!
+$username used Sticky Web on  $randuser, it was not very effective (
+$username used Feint Attack on  $randuser, critical hit!!!
+$username used Snore on  $randuser, it was not very effective (
+$username used Brick Break on  $randuser, it was not very effective (
+$username used Defense Curl on  $randuser, it was not very effective (
+$username used Bone Club on  $randuser, it was not very effective (
+$username used Steamroller on  $randuser, critical hit!!!
+$username used Seed Bomb on  $randuser, it was not very effective (
+$username used Confide on  $randuser, it was super effective!
+$username used Conversion on  $randuser, it was super effective!
+$username used Searing Shot on  $randuser, it was super effective!
+$username used Double Slap on  $randuser, it was super effective!
+$username used Shadow Force on  $randuser, it was super effective!
+$username used Entrainment on  $randuser, it was super effective!
+$username used Electric Terrain on  $randuser, critical hit!!!
+$username used Take Down on  $randuser, it was not very effective (
+$username used Shift Gear on  $randuser, it was super effective!
+$username used Substitute on  $randuser, critical hit!!!
+$username used Steel Wing on  $randuser, it was not very effective (
+$username used Play Nice on  $randuser, it was super effective!
+$username used Growth on  $randuser, it was super effective!
+$username used Rock Throw on  $randuser, critical hit!!!
+$username used Take Down on  $randuser, critical hit!!!
+$username used Secret Sword on  $randuser, critical hit!!!
+$username used Fly on  $randuser, it was super effective!
+$username used Land's Wrath on  $randuser, it was super effective!
+$username used Feint Attack on  $randuser, it was super effective!
+$username used Body Slam on  $randuser, it was super effective!
+$username used Hyperspace Fury on  $randuser, it was super effective!
+$username used Scary Face on  $randuser, it was not very effective (
+$username used Absorb on  $randuser, it was not very effective (
+$username used Fairy Lock on  $randuser, it was not very effective (
+$username used Hydro Pump on  $randuser, critical hit!!!
+$username used Extrasensory on  $randuser, it was not very effective (
+$username used Cotton Spore on  $randuser, critical hit!!!
+$username used Autotomize on  $randuser, critical hit!!!
+$username used Meteor Mash on  $randuser, it was super effective!
+$username used Sweet Kiss on  $randuser, it was not very effective (
+$username used Stored Power on  $randuser, it was not very effective (
+$username used Gunk Shot on  $randuser, it was not very effective (
+$username used Hammer Arm on  $randuser, it was super effective!
+$username used Encore on  $randuser, it was not very effective (
+$username used Bubble on  $randuser, critical hit!!!
+$username used Metronome on  $randuser, critical hit!!!
+$username used Amnesia on  $randuser, it was not very effective (
+$username used Play Nice on  $randuser, critical hit!!!
+$username used Reversal on  $randuser, it was super effective!
+$username used Head Smash on  $randuser, it was not very effective (
+$username used Eerie Impulse on  $randuser, it was super effective!
+$username used Mean Look on  $randuser, it was not very effective (
+$username used Leech Life on  $randuser, critical hit!!!
+$username used Karate Chop on  $randuser, critical hit!!!
+$username used Heal Order on  $randuser, critical hit!!!
+$username used Low Sweep on  $randuser, it was super effective!
+$username used Synchronoise on  $randuser, critical hit!!!
+$username used Aura Sphere on  $randuser, critical hit!!!
+$username used Dynamic Punch on  $randuser, it was not very effective (
+$username used Imprison on  $randuser, critical hit!!!
+$username used Headbutt on  $randuser, it was super effective!
+$username used Brave Bird on  $randuser, it was super effective!
+$username used Rage Powder on  $randuser, it was super effective!
+$username used Blaze Kick on  $randuser, it was super effective!
+$username used Venom Drench on  $randuser, it was not very effective (
+$username used Fake Out on  $randuser, it was not very effective (
+$username used Fling on  $randuser, critical hit!!!
+$username used Belly Drum on  $randuser, it was not very effective (
+$username used Egg Bomb on  $randuser, it was not very effective (
+$username used Night Shade on  $randuser, critical hit!!!
+$username used Flying Press on  $randuser, it was super effective!
+$username used Disarming Voice on  $randuser, it was super effective!
+$username used Sucker Punch on  $randuser, it was not very effective (
+$username used Drill Peck on  $randuser, it was super effective!
+$username used Refresh on  $randuser, it was super effective!
+$username used Rain Dance on  $randuser, it was super effective!
+$username used Defense Curl on  $randuser, critical hit!!!
+$username used Leaf Tornado on  $randuser, it was super effective!
+$username used Sunny Day on  $randuser, critical hit!!!
+$username used Icy Wind on  $randuser, it was super effective!
+$username used Cosmic Power on  $randuser, it was not very effective (
+$username used Draco Meteor on  $randuser, it was super effective!
+$username used Ion Deluge on  $randuser, it was super effective!
+$username used Bulldoze on  $randuser, it was not very effective (
+$username used Fusion Flare on  $randuser, critical hit!!!
+$username used Focus Blast on  $randuser, critical hit!!!
+$username used Assurance on  $randuser, critical hit!!!
+$username used Mirror Coat on  $randuser, it was not very effective (
+$username used Block on  $randuser, critical hit!!!
+$username used Defog on  $randuser, it was not very effective (
+$username used Wrap on  $randuser, it was not very effective (
+$username used Water Spout on  $randuser, it was not very effective (
+$username used Rock Blast on  $randuser, it was super effective!
+$username used Mimic on  $randuser, it was not very effective (
+$username used Miracle Eye on  $randuser, it was super effective!
+$username used Copycat on  $randuser, it was super effective!
+$username used Draining Kiss on  $randuser, it was super effective!
+$username used Assist on  $randuser, it was super effective!
+$username used Sleep Talk on  $randuser, it was super effective!
+$username used Vice Grip on  $randuser, critical hit!!!
+$username used Captivate on  $randuser, it was not very effective (
+$username used Psywave on  $randuser, it was not very effective (
+$username used Gravity on  $randuser, it was super effective!
+$username used Endure on  $randuser, critical hit!!!
+$username used Whirlpool on  $randuser, it was not very effective (
+$username used Ember on  $randuser, critical hit!!!
+$username used Peck on  $randuser, it was super effective!
+$username used Body Slam on  $randuser, it was not very effective (
+$username used Hidden Power on  $randuser, it was super effective!
+$username used Mirror Shot on  $randuser, it was not very effective (
+$username used Pound on  $randuser, it was not very effective (
+$username used Sky Attack on  $randuser, it was not very effective (
+$username used Mirror Move on  $randuser, it was super effective!
+$username used Double Slap on  $randuser, critical hit!!!
+$username used Frustration on  $randuser, critical hit!!!
+$username used Beat Up on  $randuser, it was not very effective (
+$username used Fury Swipes on  $randuser, it was super effective!
+$username used Bug Bite on  $randuser, it was super effective!
+$username used Bind on  $randuser, it was not very effective (
+$username used Psybeam on  $randuser, it was not very effective (
+$username used Frost Breath on  $randuser, it was not very effective (
+$username used Safeguard on  $randuser, critical hit!!!
+$username used Noble Roar on  $randuser, it was not very effective (
+$username used Whirlwind on  $randuser, critical hit!!!
+$username used Focus Blast on  $randuser, it was super effective!
+$username used Bug Bite on  $randuser, critical hit!!!
+$username used Comet Punch on  $randuser, it was super effective!
+$username used Bulldoze on  $randuser, it was super effective!
+$username used Strength on  $randuser, it was not very effective (
+$username used Iron Tail on  $randuser, critical hit!!!
+$username used Pay Day on  $randuser, it was not very effective (
+$username used Embargo on  $randuser, it was super effective!
+$username used Taunt on  $randuser, it was super effective!
+$username used Crafty Shield on  $randuser, critical hit!!!
+$username used Trick on  $randuser, it was super effective!
+$username used X-Scissor on  $randuser, it was super effective!
+$username used Nuzzle on  $randuser, it was not very effective (
+$username used Icicle Spear on  $randuser, it was super effective!
+$username used Hammer Arm on  $randuser, it was not very effective (
+$username used Crush Grip on  $randuser, it was not very effective (
+$username used Glare on  $randuser, it was not very effective (
+$username used Low Kick on  $randuser, it was not very effective (
+$username used Horn Drill on  $randuser, critical hit!!!
+$username used Copycat on  $randuser, critical hit!!!
+$username used Spacial Rend on  $randuser, it was not very effective (
+$username used Swagger on  $randuser, it was super effective!
+$username used Brave Bird on  $randuser, critical hit!!!
+$username used Dazzling Gleam on  $randuser, critical hit!!!
+$username used Sketch on  $randuser, critical hit!!!
+$username used Charge Beam on  $randuser, it was not very effective (
+$username used Torment on  $randuser, it was not very effective (
+$username used Skill Swap on  $randuser, critical hit!!!
+$username used Drain Punch on  $randuser, it was super effective!
+$username used Fly on  $randuser, critical hit!!!
+$username used Dragon Ascent on  $randuser, it was super effective!
+$username used Tailwind on  $randuser, critical hit!!!
+$username used Crabhammer on  $randuser, critical hit!!!
+$username used Final Gambit on  $randuser, critical hit!!!
+$username used Lava Plume on  $randuser, it was super effective!
+$username used Techno Blast on  $randuser, it was super effective!
+$username used Sweet Kiss on  $randuser, it was super effective!
+$username used Mud Bomb on  $randuser, it was super effective!
+$username used Mist on  $randuser, critical hit!!!
+$username used Return on  $randuser, it was not very effective (
+$username used Magnitude on  $randuser, it was not very effective (
+$username used Imprison on  $randuser, it was super effective!
+$username used Fire Blast on  $randuser, it was super effective!
+$username used Fairy Wind on  $randuser, critical hit!!!
+$username used Hex on  $randuser, it was super effective!
+$username used Aromatherapy on  $randuser, critical hit!!!
+$username used Dual Chop on  $randuser, it was super effective!
+$username used Sand Attack on  $randuser, it was not very effective (
+$username used Flamethrower on  $randuser, it was not very effective (
+$username used Knock Off on  $randuser, it was super effective!
+$username used Icicle Spear on  $randuser, critical hit!!!
+$username used Growth on  $randuser, critical hit!!!
+$username used Feint on  $randuser, it was super effective!
+$username used Power Swap on  $randuser, it was super effective!
+$username used Simple Beam on  $randuser, critical hit!!!
+$username used Gust on  $randuser, it was not very effective (
+$username used Tackle on  $randuser, it was not very effective (
+$username used Power Swap on  $randuser, critical hit!!!
+$username used Lava Plume on  $randuser, it was not very effective (
+$username used Protect on  $randuser, it was not very effective (
+$username used Spike Cannon on  $randuser, critical hit!!!
+$username used Trick Room on  $randuser, critical hit!!!
+$username used Confuse Ray on  $randuser, it was super effective!
+$username used Body Slam on  $randuser, critical hit!!!
+$username used Mega Punch on  $randuser, critical hit!!!
+$username used Blast Burn on  $randuser, critical hit!!!
+$username used Grudge on  $randuser, critical hit!!!
+$username used Drill Peck on  $randuser, it was not very effective (
+$username used Techno Blast on  $randuser, critical hit!!!
+$username used Earthquake on  $randuser, critical hit!!!
+$username used Razor Shell on  $randuser, it was not very effective (
+$username used Acid on  $randuser, critical hit!!!
+$username used Hold Back on  $randuser, it was not very effective (
+$username used Heat Crash on  $randuser, it was not very effective (
+$username used Mud-Slap on  $randuser, it was super effective!
+$username used Mach Punch on  $randuser, it was super effective!
+$username used Flying Press on  $randuser, critical hit!!!
+$username used Refresh on  $randuser, critical hit!!!
+$username used Volt Switch on  $randuser, critical hit!!!
+$username used Power-Up Punch on  $randuser, critical hit!!!
+$username used Nature Power on  $randuser, it was not very effective (
+$username used Venom Drench on  $randuser, it was super effective!
+$username used Clear Smog on  $randuser, critical hit!!!
+$username used Sludge Bomb on  $randuser, critical hit!!!
+$username used Rock Polish on  $randuser, critical hit!!!
+$username used Recover on  $randuser, critical hit!!!
+$username used Ice Punch on  $randuser, it was super effective!
+$username used Splash on  $randuser, it was super effective!
+$username used Mystical Fire on  $randuser, it was super effective!
+$username used Octazooka on  $randuser, it was not very effective (
+$username used Sharpen on  $randuser, it was not very effective (
+$username used Psystrike on  $randuser, it was not very effective (
+$username used Solar Beam on  $randuser, critical hit!!!
+$username used Water Pledge on  $randuser, it was not very effective (
+$username used Magic Room on  $randuser, it was super effective!
+$username used Karate Chop on  $randuser, it was not very effective (
+$username used Dizzy Punch on  $randuser, it was super effective!
+$username used Dragon Breath on  $randuser, it was not very effective (
+$username used Detect on  $randuser, it was super effective!
+$username used Dark Pulse on  $randuser, it was super effective!
+$username used Sing on  $randuser, it was not very effective (
+$username used Dual Chop on  $randuser, critical hit!!!
+$username used Leech Seed on  $randuser, it was super effective!
+$username used Acid Spray on  $randuser, critical hit!!!
+$username used Spark on  $randuser, it was super effective!
+$username used Pain Split on  $randuser, it was not very effective (
+$username used Heal Pulse on  $randuser, critical hit!!!
+$username used Volt Tackle on  $randuser, it was not very effective (
+$username used Return on  $randuser, critical hit!!!
+$username used Thrash on  $randuser, critical hit!!!
+$username used Assurance on  $randuser, it was not very effective (
+$username used Horn Leech on  $randuser, it was not very effective (
+$username used Vine Whip on  $randuser, critical hit!!!
+$username used Kinesis on  $randuser, it was super effective!
+$username used Roar on  $randuser, it was not very effective (
+$username used Feint on  $randuser, it was not very effective (
+$username used Superpower on  $randuser, critical hit!!!
+$username used Covet on  $randuser, critical hit!!!
+$username used Rollout on  $randuser, it was super effective!
+$username used Infestation on  $randuser, it was super effective!
+$username used Magical Leaf on  $randuser, it was super effective!
+$username used Ominous Wind on  $randuser, it was super effective!
+$username used Heat Crash on  $randuser, it was super effective!
+$username used Double Hit on  $randuser, it was not very effective (
+$username used Boomburst on  $randuser, critical hit!!!
+$username used Grassy Terrain on  $randuser, it was not very effective (
+$username used Aurora Beam on  $randuser, critical hit!!!
+$username used Ice Beam on  $randuser, it was super effective!
+$username used Boomburst on  $randuser, it was not very effective (
+$username used Foul Play on  $randuser, critical hit!!!
+$username used Rock Tomb on  $randuser, it was not very effective (
+$username used Smog on  $randuser, it was not very effective (
+$username used Endeavor on  $randuser, it was not very effective (
+$username used Glare on  $randuser, it was super effective!
+$username used Rest on  $randuser, it was super effective!
+$username used Retaliate on  $randuser, it was super effective!
+$username used Round on  $randuser, it was not very effective (
+$username used Thousand Arrows on  $randuser, it was not very effective (
+$username used Blizzard on  $randuser, critical hit!!!
+$username used Destiny Bond on  $randuser, it was not very effective (
+$username used Swift on  $randuser, critical hit!!!
+$username used Sheer Cold on  $randuser, it was not very effective (
+$username used Transform on  $randuser, it was not very effective (
+$username used Water Pulse on  $randuser, it was super effective!
+$username used Submission on  $randuser, critical hit!!!
+$username used Morning Sun on  $randuser, critical hit!!!
+$username used Scald on  $randuser, it was super effective!
+$username used Psystrike on  $randuser, it was super effective!
+$username used Heart Swap on  $randuser, it was not very effective (
+$username used Electroweb on  $randuser, it was super effective!
+$username used Water Sport on  $randuser, it was not very effective (
+$username used Reversal on  $randuser, critical hit!!!
+$username used Fiery Dance on  $randuser, it was super effective!
+$username used Dig on  $randuser, it was not very effective (
+$username used Drill Peck on  $randuser, critical hit!!!
+$username used Sky Attack on  $randuser, it was super effective!
+$username used Fire Pledge on  $randuser, critical hit!!!
+$username used Dragon Tail on  $randuser, critical hit!!!
+$username used Baton Pass on  $randuser, critical hit!!!
+$username used Solar Beam on  $randuser, it was not very effective (
+$username used Bulk Up on  $randuser, it was super effective!
+$username used Blaze Kick on  $randuser, it was not very effective (
+$username used Mach Punch on  $randuser, critical hit!!!
+$username used Freeze-Dry on  $randuser, critical hit!!!
+$username used Geomancy on  $randuser, critical hit!!!
+$username used Reflect Type on  $randuser, critical hit!!!
+$username used Lunar Dance on  $randuser, it was not very effective (
+$username used Tail Whip on  $randuser, critical hit!!!
+$username used Nasty Plot on  $randuser, critical hit!!!
+$username used Bide on  $randuser, it was not very effective (
+$username used Sketch on  $randuser, it was super effective!
+$username used Brick Break on  $randuser, critical hit!!!
+$username used Swallow on  $randuser, it was super effective!
+$username used Shell Smash on  $randuser, it was super effective!
+$username used Focus Punch on  $randuser, it was not very effective (
+$username used Bone Club on  $randuser, it was super effective!
+$username used Morning Sun on  $randuser, it was not very effective (
+$username used Aromatic Mist on  $randuser, it was not very effective (
+$username used Mean Look on  $randuser, critical hit!!!
+$username used Magical Leaf on  $randuser, it was not very effective (
+$username used Doom Desire on  $randuser, it was super effective!
+$username used Steamroller on  $randuser, it was not very effective (
+$username used Flame Wheel on  $randuser, critical hit!!!
+$username used Rage Powder on  $randuser, it was not very effective (
+$username used Waterfall on  $randuser, it was not very effective (
+$username used Headbutt on  $randuser, it was not very effective (
+$username used Smokescreen on  $randuser, critical hit!!!
+$username used Aqua Jet on  $randuser, critical hit!!!
+$username used Lovely Kiss on  $randuser, it was not very effective (
+$username used Bestow on  $randuser, it was not very effective (
+$username used Minimize on  $randuser, critical hit!!!
+$username used Horn Leech on  $randuser, it was super effective!
+$username used Screech on  $randuser, critical hit!!!
+$username used Bide on  $randuser, critical hit!!!
+$username used Mega Punch on  $randuser, it was not very effective (
+$username used Pay Day on  $randuser, critical hit!!!
+$username used Freeze-Dry on  $randuser, it was super effective!
+$username used Constrict on  $randuser, it was not very effective (
+$username used Charge Beam on  $randuser, critical hit!!!
+$username used Yawn on  $randuser, it was not very effective (
+$username used Mud-Slap on  $randuser, critical hit!!!
+$username used Acrobatics on  $randuser, critical hit!!!
+$username used Icicle Crash on  $randuser, it was super effective!
+$username used Shift Gear on  $randuser, critical hit!!!
+$username used Iron Tail on  $randuser, it was not very effective (
+$username used Giga Drain on  $randuser, critical hit!!!
+$username used Bestow on  $randuser, critical hit!!!
+$username used Stomp on  $randuser, it was not very effective (
+$username used Peck on  $randuser, it was not very effective (
+$username used Punishment on  $randuser, it was super effective!
+$username used Cut on  $randuser, it was super effective!
+$username used Snatch on  $randuser, it was super effective!
+$username used Brine on  $randuser, it was not very effective (
+$username used Heal Bell on  $randuser, critical hit!!!
+$username used Sticky Web on  $randuser, it was super effective!
+$username used Teeter Dance on  $randuser, critical hit!!!
+$username used Poison Powder on  $randuser, critical hit!!!
+$username used Spiky Shield on  $randuser, it was not very effective (
+$username used Block on  $randuser, it was super effective!
+$username used Coil on  $randuser, critical hit!!!
+$username used Overheat on  $randuser, it was super effective!
+$username used Venom Drench on  $randuser, critical hit!!!
+$username used High Jump Kick on  $randuser, it was not very effective (
+$username used Shadow Claw on  $randuser, it was super effective!
+$username used Acupressure on  $randuser, critical hit!!!
+$username used Grudge on  $randuser, it was not very effective (
+$username used Superpower on  $randuser, it was not very effective (
+$username used Self-Destruct on  $randuser, it was super effective!
+$username used Shadow Sneak on  $randuser, it was not very effective (
+$username used Powder Snow on  $randuser, it was not very effective (
+$username used Extrasensory on  $randuser, critical hit!!!
+$username used Energy Ball on  $randuser, it was super effective!
+$username used Comet Punch on  $randuser, it was not very effective (
+$username used Memento on  $randuser, it was super effective!
+$username used Eerie Impulse on  $randuser, it was not very effective (
+$username used Magnitude on  $randuser, it was super effective!
+$username used Drill Run on  $randuser, critical hit!!!
+$username used Rock Climb on  $randuser, it was super effective!
+$username used Gunk Shot on  $randuser, it was super effective!
+$username used Weather Ball on  $randuser, it was not very effective (
+$username used Bug Buzz on  $randuser, it was super effective!
+$username used Flash on  $randuser, critical hit!!!
+$username used Defend Order on  $randuser, it was not very effective (
+$username used Feint on  $randuser, critical hit!!!
+$username used Metal Sound on  $randuser, it was super effective!
+$username used Rock Slide on  $randuser, it was not very effective (
+$username used Vine Whip on  $randuser, it was super effective!
+$username used Gravity on  $randuser, it was not very effective (
+$username used Revenge on  $randuser, critical hit!!!
+$username used Howl on  $randuser, it was not very effective (
+$username used Earth Power on  $randuser, critical hit!!!
+$username used Eruption on  $randuser, critical hit!!!
+$username used Phantom Force on  $randuser, it was not very effective (
+$username used Heal Block on  $randuser, critical hit!!!
+$username used Thunder on  $randuser, it was not very effective (
+$username used Steel Wing on  $randuser, it was super effective!
+$username used Metal Burst on  $randuser, it was super effective!
+$username used Crunch on  $randuser, it was not very effective (
+$username used Flare Blitz on  $randuser, it was not very effective (
+$username used Flamethrower on  $randuser, it was super effective!
+$username used Powder Snow on  $randuser, it was super effective!
+$username used Vital Throw on  $randuser, it was not very effective (
+$username used Night Slash on  $randuser, critical hit!!!
+$username used Force Palm on  $randuser, it was not very effective (
+$username used Fell Stinger on  $randuser, it was super effective!
+$username used Yawn on  $randuser, critical hit!!!
+$username used Hypnosis on  $randuser, it was super effective!
+$username used Blast Burn on  $randuser, it was not very effective (
+$username used Giga Impact on  $randuser, it was super effective!
+$username used Energy Ball on  $randuser, it was not very effective (
+$username used Petal Blizzard on  $randuser, critical hit!!!
+$username used Worry Seed on  $randuser, it was super effective!
+$username used Pin Missile on  $randuser, it was not very effective (
+$username used Volt Switch on  $randuser, it was not very effective (
+$username used Brave Bird on  $randuser, it was not very effective (
+$username used Draco Meteor on  $randuser, critical hit!!!
+$username used Hold Hands on  $randuser, it was not very effective (
+$username used Synthesis on  $randuser, it was super effective!
+$username used Air Cutter on  $randuser, it was super effective!
+$username used Barrage on  $randuser, critical hit!!!
+$username used Slack Off on  $randuser, critical hit!!!
+$username used Needle Arm on  $randuser, it was not very effective (
+$username used Uproar on  $randuser, it was not very effective (
+$username used King's Shield on  $randuser, it was super effective!
+$username used Ominous Wind on  $randuser, it was not very effective (
+$username used Fire Fang on  $randuser, it was super effective!
+$username used Poison Gas on  $randuser, it was not very effective (
+$username used Scald on  $randuser, critical hit!!!
+$username used Infestation on  $randuser, critical hit!!!
+$username used Assurance on  $randuser, it was super effective!
+$username used Wake-Up Slap on  $randuser, it was super effective!
+$username used Heavy Slam on  $randuser, it was super effective!
+$username used Lunar Dance on  $randuser, it was super effective!
+$username used Hydro Cannon on  $randuser, it was not very effective (
+$username used Magma Storm on  $randuser, it was not very effective (
+$username used Struggle Bug on  $randuser, it was not very effective (
+$username used Iron Defense on  $randuser, it was not very effective (
+$username used Substitute on  $randuser, it was super effective!
+$username used Sludge Bomb on  $randuser, it was not very effective (
+$username used Bullet Seed on  $randuser, critical hit!!!
+$username used Arm Thrust on  $randuser, it was not very effective (
+$username used Fusion Bolt on  $randuser, critical hit!!!
+$username used Smokescreen on  $randuser, it was not very effective (
+$username used Thunder Fang on  $randuser, critical hit!!!
+$username used Bubble on  $randuser, it was super effective!
+$username used Baton Pass on  $randuser, it was super effective!
+$username used Venoshock on  $randuser, it was super effective!
+$username used Blizzard on  $randuser, it was super effective!
+$username used Hydro Pump on  $randuser, it was super effective!
+$username used Curse on  $randuser, critical hit!!!
+$username used Poison Gas on  $randuser, it was super effective!
+$username used Rock Slide on  $randuser, it was super effective!
+$username used Misty Terrain on  $randuser, it was not very effective (
+$username used Night Slash on  $randuser, it was super effective!
+$username used Spit Up on  $randuser, it was super effective!
+$username used Wish on  $randuser, it was super effective!
+$username used Hyperspace Hole on  $randuser, it was not very effective (
+$username used Feint Attack on  $randuser, it was not very effective (
+$username used Stone Edge on  $randuser, it was super effective!
+$username used Double Hit on  $randuser, critical hit!!!
+$username used Shock Wave on  $randuser, it was super effective!
+$username used Me First on  $randuser, it was not very effective (
+$username used Zap Cannon on  $randuser, critical hit!!!
+$username used Wide Guard on  $randuser, critical hit!!!
+$username used Disable on  $randuser, critical hit!!!
+$username used Wake-Up Slap on  $randuser, critical hit!!!
+$username used Spikes on  $randuser, critical hit!!!
+$username used Sludge Wave on  $randuser, it was not very effective (
+$username used Diamond Storm on  $randuser, it was not very effective (
+$username used Pursuit on  $randuser, critical hit!!!
+$username used Secret Power on  $randuser, it was super effective!
+$username used Horn Leech on  $randuser, critical hit!!!
+$username used Hyper Voice on  $randuser, critical hit!!!
+$username used Incinerate on  $randuser, it was super effective!
+$username used Blaze Kick on  $randuser, critical hit!!!
+$username used Attack Order on  $randuser, it was super effective!
+$username used Magnitude on  $randuser, critical hit!!!
+$username used Crafty Shield on  $randuser, it was super effective!
+$username used Sweet Kiss on  $randuser, critical hit!!!
+$username used Rock Slide on  $randuser, critical hit!!!
+$username used Ice Ball on  $randuser, it was super effective!
+$username used Guillotine on  $randuser, it was super effective!
+$username used Sacred Fire on  $randuser, it was super effective!
+$username used Bullet Punch on  $randuser, it was not very effective (
+$username used Power Trick on  $randuser, it was super effective!
+$username used Endeavor on  $randuser, it was super effective!
+$username used Spark on  $randuser, it was not very effective (
+$username used Gust on  $randuser, it was super effective!
+$username used Frustration on  $randuser, it was super effective!
+$username used Echoed Voice on  $randuser, it was not very effective (
+$username used Wing Attack on  $randuser, it was not very effective (
+$username used Rototiller on  $randuser, it was super effective!
+$username used Poison Jab on  $randuser, it was not very effective (
+$username used Fire Blast on  $randuser, it was not very effective (
+$username used Spite on  $randuser, critical hit!!!
+$username used Seismic Toss on  $randuser, it was super effective!
+$username used Recycle on  $randuser, it was super effective!
+$username used Electro Ball on  $randuser, critical hit!!!
+$username used Fairy Lock on  $randuser, it was super effective!
+$username used Bounce on  $randuser, it was super effective!
+$username used Wake-Up Slap on  $randuser, it was not very effective (
+$username used Water Shuriken on  $randuser, critical hit!!!
+$username used Haze on  $randuser, it was super effective!
+$username used Spider Web on  $randuser, it was super effective!
+$username used Heal Order on  $randuser, it was not very effective (
+$username used Kinesis on  $randuser, critical hit!!!
+$username used Quash on  $randuser, it was super effective!
+$username used Flail on  $randuser, it was super effective!
+$username used Mud Shot on  $randuser, it was not very effective (
+$username used Spacial Rend on  $randuser, it was super effective!
+$username used Flame Wheel on  $randuser, it was not very effective (
+$username used Rock Polish on  $randuser, it was super effective!
+$username used Overheat on  $randuser, it was not very effective (
+$username used Eruption on  $randuser, it was not very effective (
+$username used Ice Shard on  $randuser, it was super effective!
+$username used Echoed Voice on  $randuser, it was super effective!
+$username used Brine on  $randuser, critical hit!!!
+$username used Baby-Doll Eyes on  $randuser, it was not very effective (
+$username used Spikes on  $randuser, it was super effective!
+$username used Mud Sport on  $randuser, it was super effective!
+$username used Swagger on  $randuser, critical hit!!!
+$username used Pluck on  $randuser, critical hit!!!
+$username used Silver Wind on  $randuser, critical hit!!!
+$username used Whirlwind on  $randuser, it was not very effective (
+$username used Electroweb on  $randuser, critical hit!!!
+$username used Quash on  $randuser, critical hit!!!
+$username used Bulk Up on  $randuser, it was not very effective (
+$username used Fury Cutter on  $randuser, it was not very effective (
+$username used Poison Sting on  $randuser, it was not very effective (
+$username used Retaliate on  $randuser, critical hit!!!
+$username used Mega Kick on  $randuser, critical hit!!!
+$username used Dragon Claw on  $randuser, it was not very effective (
+$username used Extreme Speed on  $randuser, it was not very effective (
+$username used Smelling Salts on  $randuser, critical hit!!!
+$username used Rain Dance on  $randuser, critical hit!!!
+$username used Electrify on  $randuser, it was not very effective (
+$username used Mega Drain on  $randuser, it was not very effective (
+$username used Thunder Shock on  $randuser, it was not very effective (
+$username used Night Daze on  $randuser, critical hit!!!
+$username used Payback on  $randuser, critical hit!!!
+$username used Morning Sun on  $randuser, it was super effective!
+$username used Mirror Shot on  $randuser, critical hit!!!
+$username used Screech on  $randuser, it was super effective!
+$username used Iron Defense on  $randuser, critical hit!!!
+$username used Seed Flare on  $randuser, critical hit!!!
+$username used Shift Gear on  $randuser, it was not very effective (
+$username used Air Slash on  $randuser, critical hit!!!
+$username used Frost Breath on  $randuser, it was super effective!
+$username used Flame Burst on  $randuser, critical hit!!!
+$username used Taunt on  $randuser, critical hit!!!
+$username used U-turn on  $randuser, it was super effective!
+$username used Lunar Dance on  $randuser, critical hit!!!
+$username used Yawn on  $randuser, it was super effective!
+$username used Me First on  $randuser, critical hit!!!
+$username used Head Smash on  $randuser, critical hit!!!
+$username used Egg Bomb on  $randuser, critical hit!!!
+$username used Leech Seed on  $randuser, critical hit!!!
+$username used Tickle on  $randuser, critical hit!!!
+$username used Mean Look on  $randuser, it was super effective!
+$username used Synthesis on  $randuser, it was not very effective (
+$username used Spiky Shield on  $randuser, critical hit!!!
+$username used Hone Claws on  $randuser, critical hit!!!
+$username used Revenge on  $randuser, it was not very effective (
+$username used Grass Pledge on  $randuser, critical hit!!!
+$username used Fiery Dance on  $randuser, it was not very effective (
+$username used Stun Spore on  $randuser, critical hit!!!
+$username used Shadow Punch on  $randuser, it was not very effective (
+$username used Wring Out on  $randuser, it was not very effective (
+$username used Twister on  $randuser, it was super effective!
+$username used Moonblast on  $randuser, critical hit!!!
+$username used Charge on  $randuser, critical hit!!!
+$username used Take Down on  $randuser, it was super effective!
+$username used Nature Power on  $randuser, it was super effective!
+$username used Ice Fang on  $randuser, critical hit!!!
+$username used Explosion on  $randuser, it was not very effective (
+$username used Metal Sound on  $randuser, it was not very effective (
+$username used Grass Whistle on  $randuser, it was not very effective (
+$username used Hold Hands on  $randuser, critical hit!!!
+$username used Howl on  $randuser, critical hit!!!
+$username used Odor Sleuth on  $randuser, critical hit!!!
+$username used Detect on  $randuser, critical hit!!!
+$username used Muddy Water on  $randuser, it was super effective!
+$username used Needle Arm on  $randuser, it was super effective!
+$username used Aqua Ring on  $randuser, critical hit!!!
+$username used Whirlwind on  $randuser, it was super effective!
+$username used Mud Sport on  $randuser, it was not very effective (
+$username used Seed Flare on  $randuser, it was super effective!
+$username used Feather Dance on  $randuser, critical hit!!!
+$username used Hyper Beam on  $randuser, critical hit!!!
+$username used Rollout on  $randuser, critical hit!!!
+$username used Thousand Waves on  $randuser, it was not very effective (
+$username used Tackle on  $randuser, critical hit!!!
+$username used Present on  $randuser, it was super effective!
+$username used Cross Poison on  $randuser, critical hit!!!
+$username used Sketch on  $randuser, it was not very effective (
+$username used Double-Edge on  $randuser, critical hit!!!
+$username used Mat Block on  $randuser, it was not very effective (
+$username used Fell Stinger on  $randuser, critical hit!!!
+$username used X-Scissor on  $randuser, critical hit!!!
+$username used Flare Blitz on  $randuser, critical hit!!!
+$username used Sacred Fire on  $randuser, it was not very effective (
+$username used Land's Wrath on  $randuser, critical hit!!!
+$username used Bite on  $randuser, critical hit!!!
+$username used Rock Wrecker on  $randuser, it was not very effective (
+$username used Lock-On on  $randuser, it was not very effective (
+$username used Rock Climb on  $randuser, it was not very effective (
+$username used Bonemerang on  $randuser, critical hit!!!
+$username used Flying Press on  $randuser, it was not very effective (
+$username used Barrage on  $randuser, it was super effective!
+$username used Stun Spore on  $randuser, it was not very effective (
+$username used Bone Rush on  $randuser, it was super effective!
+$username used Hyper Voice on  $randuser, it was not very effective (
+$username used Water Sport on  $randuser, it was super effective!
+$username used Dragon Rush on  $randuser, it was super effective!
+$username used Noble Roar on  $randuser, critical hit!!!
+$username used Shadow Ball on  $randuser, it was super effective!
+$username used Razor Wind on  $randuser, it was super effective!
+$username used Noble Roar on  $randuser, it was super effective!
+$username used Aqua Tail on  $randuser, it was not very effective (
+$username used Tickle on  $randuser, it was super effective!
+$username used Safeguard on  $randuser, it was super effective!
+$username used Eerie Impulse on  $randuser, critical hit!!!
+$username used Light Screen on  $randuser, it was not very effective (
+$username used Mud Shot on  $randuser, critical hit!!!
+$username used King's Shield on  $randuser, critical hit!!!
+$username used Flamethrower on  $randuser, critical hit!!!
+$username used Power Trick on  $randuser, critical hit!!!
+$username used Submission on  $randuser, it was super effective!
+$username used Healing Wish on  $randuser, critical hit!!!
+$username used False Swipe on  $randuser, critical hit!!!
+$username used Psych Up on  $randuser, it was not very effective (
+$username used Frustration on  $randuser, it was not very effective (
+$username used Fire Spin on  $randuser, critical hit!!!
+$username used Fury Cutter on  $randuser, critical hit!!!
+$username used Play Rough on  $randuser, it was not very effective (
+$username used Blast Burn on  $randuser, it was super effective!
+$username used Acid Armor on  $randuser, it was not very effective (
+$username used Fairy Wind on  $randuser, it was not very effective (
+$username used Tail Whip on  $randuser, it was not very effective (
+$username used Beat Up on  $randuser, it was super effective!
+$username used Foresight on  $randuser, critical hit!!!
+$username used Zen Headbutt on  $randuser, it was not very effective (
+$username used Gravity on  $randuser, critical hit!!!
+$username used Rock Tomb on  $randuser, it was super effective!
+$username used Drain Punch on  $randuser, critical hit!!!
+$username used Horn Drill on  $randuser, it was super effective!
+$username used Cotton Guard on  $randuser, it was super effective!
+$username used Soak on  $randuser, it was not very effective (
+$username used Inferno on  $randuser, it was super effective!
+$username used Crush Grip on  $randuser, critical hit!!!
+$username used Heal Bell on  $randuser, it was super effective!
+$username used Chip Away on  $randuser, it was super effective!
+$username used Hold Back on  $randuser, critical hit!!!
+$username used Natural Gift on  $randuser, critical hit!!!
+$username used Explosion on  $randuser, critical hit!!!
+$username used Barrier on  $randuser, it was super effective!
+$username used Magic Coat on  $randuser, it was not very effective (
+$username used Shadow Sneak on  $randuser, critical hit!!!
+$username used Confusion on  $randuser, it was super effective!
+$username used Dizzy Punch on  $randuser, it was not very effective (
+$username used Dig on  $randuser, it was super effective!
+$username used Hyper Beam on  $randuser, it was super effective!
+$username used Acupressure on  $randuser, it was not very effective (
+$username used Origin Pulse on  $randuser, it was super effective!
+$username used Earthquake on  $randuser, it was super effective!
+$username used Quick Guard on  $randuser, critical hit!!!
+$username used Ember on  $randuser, it was not very effective (
+$username used Parting Shot on  $randuser, critical hit!!!
+$username used Rock Smash on  $randuser, critical hit!!!
+$username used Fire Pledge on  $randuser, it was not very effective (
+$username used Clamp on  $randuser, critical hit!!!
+$username used Leech Life on  $randuser, it was super effective!
+$username used Cut on  $randuser, critical hit!!!
+$username used Overheat on  $randuser, critical hit!!!
+$username used Mega Drain on  $randuser, critical hit!!!
+$username used Roar of Time on  $randuser, it was super effective!
+$username used Fire Punch on  $randuser, it was super effective!
+$username used Retaliate on  $randuser, it was not very effective (
+$username used Teleport on  $randuser, it was not very effective (
+$username used Mist Ball on  $randuser, it was not very effective (
+$username used Echoed Voice on  $randuser, critical hit!!!
+$username used Wing Attack on  $randuser, it was super effective!
+$username used Nasty Plot on  $randuser, it was not very effective (
+$username used Moonblast on  $randuser, it was super effective!
+$username used Leaf Storm on  $randuser, critical hit!!!
+$username used Constrict on  $randuser, it was super effective!
+$username used U-turn on  $randuser, it was not very effective (
+$username used Crush Claw on  $randuser, critical hit!!!
+$username used Psywave on  $randuser, it was super effective!
+$username used Knock Off on  $randuser, it was not very effective (
+$username used Barrier on  $randuser, it was not very effective (
+$username used Snarl on  $randuser, critical hit!!!
+$username used Work Up on  $randuser, critical hit!!!
+$username used Camouflage on  $randuser, it was super effective!
+$username used Razor Shell on  $randuser, critical hit!!!
+$username used Bug Bite on  $randuser, it was not very effective (
+$username used Hyper Beam on  $randuser, it was not very effective (
+$username used Aromatherapy on  $randuser, it was super effective!
+$username used Withdraw on  $randuser, it was not very effective (
+$username used Electric Terrain on  $randuser, it was not very effective (
+$username used Weather Ball on  $randuser, it was super effective!
+$username used Fly on  $randuser, it was not very effective (
+$username used Recycle on  $randuser, critical hit!!!
+$username used Aqua Jet on  $randuser, it was not very effective (
+$username used Oblivion Wing on  $randuser, it was not very effective (
+$username used Mat Block on  $randuser, it was super effective!
+$username used Mist on  $randuser, it was not very effective (
+$username used Fire Punch on  $randuser, critical hit!!!
+$username used Work Up on  $randuser, it was super effective!
+$username used Reflect on  $randuser, it was super effective!
+$username used Stealth Rock on  $randuser, it was super effective!
+$username used Lick on  $randuser, it was not very effective (
+$username used Conversion on  $randuser, critical hit!!!
+$username used Incinerate on  $randuser, it was not very effective (
+$username used Rock Blast on  $randuser, critical hit!!!
+$username used Foresight on  $randuser, it was super effective!
+$username used Rock Wrecker on  $randuser, it was super effective!
+$username used Super Fang on  $randuser, it was not very effective (
+$username used Venoshock on  $randuser, critical hit!!!
+$username used Leer on  $randuser, it was not very effective (
+$username used Pursuit on  $randuser, it was super effective!
+$username used Metronome on  $randuser, it was not very effective (
+$username used Focus Energy on  $randuser, critical hit!!!
+$username used Astonish on  $randuser, it was super effective!
+$username used Absorb on  $randuser, it was super effective!
+$username used Heat Crash on  $randuser, critical hit!!!
+$username used Sludge Wave on  $randuser, it was super effective!
+$username used Rock Tomb on  $randuser, critical hit!!!
+$username used Mind Reader on  $randuser, it was not very effective (
+$username used Surf on  $randuser, critical hit!!!
+$username used Acid Spray on  $randuser, it was not very effective (
+$username used Synchronoise on  $randuser, it was super effective!
+$username used Mega Punch on  $randuser, it was super effective!
+$username used Power Gem on  $randuser, it was super effective!
+$username used Bind on  $randuser, it was super effective!
+$username used Water Pledge on  $randuser, it was super effective!
+$username used Flail on  $randuser, it was not very effective (
+$username used Shadow Claw on  $randuser, critical hit!!!
+$username used Hurricane on  $randuser, critical hit!!!
+$username used Icicle Crash on  $randuser, critical hit!!!
+$username used Moonblast on  $randuser, it was not very effective (
+$username used Sonic Boom on  $randuser, it was not very effective (
+$username used Techno Blast on  $randuser, it was not very effective (
+$username used Agility on  $randuser, it was super effective!
+$username used Phantom Force on  $randuser, critical hit!!!
+$username used Origin Pulse on  $randuser, critical hit!!!
+$username used Frenzy Plant on  $randuser, it was super effective!
+$username used Crabhammer on  $randuser, it was super effective!
+$username used Hyper Fang on  $randuser, it was not very effective (
+$username used Toxic Spikes on  $randuser, it was super effective!
+$username used Bolt Strike on  $randuser, critical hit!!!
+$username used String Shot on  $randuser, it was super effective!
+$username used Charm on  $randuser, it was super effective!
+$username used Chatter on  $randuser, it was not very effective (
+$username used Forest's Curse on  $randuser, it was super effective!
+$username used Frenzy Plant on  $randuser, it was not very effective (
+$username used Blizzard on  $randuser, it was not very effective (
+$username used Flare Blitz on  $randuser, it was super effective!
+$username used Luster Purge on  $randuser, critical hit!!!
+$username used Supersonic on  $randuser, it was super effective!
+$username used Double Kick on  $randuser, it was not very effective (
+$username used Electric Terrain on  $randuser, it was super effective!
+$username used Sweet Scent on  $randuser, it was not very effective (
+$username used Thunder Shock on  $randuser, it was super effective!
+$username used Sacred Sword on  $randuser, it was not very effective (
+$username used Flame Wheel on  $randuser, it was super effective!
+$username used Feather Dance on  $randuser, it was not very effective (
+$username used Wish on  $randuser, it was not very effective (
+$username used Power-Up Punch on  $randuser, it was not very effective (
+$username used Hammer Arm on  $randuser, critical hit!!!
+$username used Thunder Wave on  $randuser, it was super effective!
+$username used Judgment on  $randuser, it was super effective!
+$username used Slash on  $randuser, it was not very effective (
+$username used Grass Whistle on  $randuser, it was super effective!
+$username used Shadow Sneak on  $randuser, it was super effective!
+$username used Captivate on  $randuser, critical hit!!!
+$username used Trick-or-Treat on  $randuser, it was super effective!
+$username used Hyperspace Hole on  $randuser, critical hit!!!
+$username used Parting Shot on  $randuser, it was not very effective (
+$username used Helping Hand on  $randuser, it was super effective!
+$username used Mystical Fire on  $randuser, critical hit!!!
+$username used Poison Gas on  $randuser, critical hit!!!
+$username used Mist on  $randuser, it was super effective!
+$username used Hone Claws on  $randuser, it was super effective!
+$username used Explosion on  $randuser, it was super effective!
+$username used Ally Switch on  $randuser, it was not very effective (
+$username used Recycle on  $randuser, it was not very effective (
+$username used Worry Seed on  $randuser, critical hit!!!
+$username used Extreme Speed on  $randuser, it was super effective!
+$username used Triple Kick on  $randuser, critical hit!!!
+$username used Rolling Kick on  $randuser, it was super effective!
+$username used Petal Dance on  $randuser, critical hit!!!
+$username used Ice Ball on  $randuser, it was not very effective (
+$username used Sucker Punch on  $randuser, it was super effective!
+$username used Switcheroo on  $randuser, critical hit!!!
+$username used Crunch on  $randuser, it was super effective!
+$username used Dark Pulse on  $randuser, critical hit!!!
+$username used Rock Smash on  $randuser, it was super effective!
+$username used Chatter on  $randuser, critical hit!!!
+$username used Triple Kick on  $randuser, it was not very effective (
+$username used Conversion 2 on  $randuser, it was not very effective (
+$username used Spark on  $randuser, critical hit!!!
+$username used Celebrate on  $randuser, it was super effective!
+$username used Night Daze on  $randuser, it was super effective!
+$username used Hyperspace Fury on  $randuser, it was not very effective (
+$username used Tail Glow on  $randuser, it was super effective!
+$username used Soft-Boiled on  $randuser, it was not very effective (
+$username used Synchronoise on  $randuser, it was not very effective (
+$username used Petal Blizzard on  $randuser, it was super effective!
+$username used After You on  $randuser, it was super effective!
+$username used Water Spout on  $randuser, critical hit!!!
+$username used Dynamic Punch on  $randuser, critical hit!!!
+$username used Swift on  $randuser, it was not very effective (
+$username used Waterfall on  $randuser, critical hit!!!
+$username used Trick-or-Treat on  $randuser, it was not very effective (
+$username used Trump Card on  $randuser, it was not very effective (
+$username used Spider Web on  $randuser, critical hit!!!
+$username used Moonlight on  $randuser, it was not very effective (
+$username used Magnetic Flux on  $randuser, critical hit!!!
+$username used Zen Headbutt on  $randuser, it was super effective!
+$username used Wrap on  $randuser, it was super effective!
+$username used Aurora Beam on  $randuser, it was not very effective (
+$username used Arm Thrust on  $randuser, critical hit!!!
+$username used Power Gem on  $randuser, it was not very effective (
+$username used Inferno on  $randuser, critical hit!!!
+$username used Peck on  $randuser, critical hit!!!
+$username used Poison Powder on  $randuser, it was not very effective (
+$username used Doom Desire on  $randuser, critical hit!!!
+$username used Sing on  $randuser, critical hit!!!
+$username used Fire Fang on  $randuser, it was not very effective (
+$username used Giga Impact on  $randuser, critical hit!!!
+$username used Belch on  $randuser, it was not very effective (
+$username used Weather Ball on  $randuser, critical hit!!!
+$username used Magic Coat on  $randuser, critical hit!!!
+$username used Charge on  $randuser, it was super effective!
+$username used Grassy Terrain on  $randuser, it was super effective!
+$username used Fake Out on  $randuser, it was super effective!
+$username used Fusion Flare on  $randuser, it was not very effective (
+$username used Vacuum Wave on  $randuser, it was not very effective (
+$username used Healing Wish on  $randuser, it was not very effective (
+$username used Wood Hammer on  $randuser, it was not very effective (
+$username used Smelling Salts on  $randuser, it was super effective!
+$username used Magic Room on  $randuser, critical hit!!!
+$username used Absorb on  $randuser, critical hit!!!
+$username used Acid Spray on  $randuser, it was super effective!
+$username used Focus Energy on  $randuser, it was super effective!
+$username used Discharge on  $randuser, it was not very effective (
+$username used Super Fang on  $randuser, it was super effective!
+$username used Octazooka on  $randuser, it was super effective!
+$username used Powder Snow on  $randuser, critical hit!!!
+$username used Freeze Shock on  $randuser, it was not very effective (
+$username used Razor Leaf on  $randuser, it was super effective!
+$username used Skill Swap on  $randuser, it was super effective!
+$username used Quiver Dance on  $randuser, critical hit!!!
+$username used Double Slap on  $randuser, it was not very effective (
+$username used Agility on  $randuser, critical hit!!!
+$username used Mirror Coat on  $randuser, it was super effective!
+$username used Skill Swap on  $randuser, it was not very effective (
+$username used Thunder Fang on  $randuser, it was not very effective (
+$username used Milk Drink on  $randuser, it was not very effective (
+$username used Leaf Storm on  $randuser, it was not very effective (
+$username used Fury Attack on  $randuser, critical hit!!!
+$username used Fire Fang on  $randuser, critical hit!!!
+$username used Giga Drain on  $randuser, it was super effective!
+$username used Icicle Spear on  $randuser, it was not very effective (
+$username used Metal Burst on  $randuser, critical hit!!!
+$username used Gust on  $randuser, critical hit!!!
+$username used Power Whip on  $randuser, it was not very effective (
+$username used Oblivion Wing on  $randuser, critical hit!!!
+$username used Power Gem on  $randuser, critical hit!!!
+$username used Blue Flare on  $randuser, critical hit!!!
+$username used Sky Drop on  $randuser, critical hit!!!
+$username used Ice Shard on  $randuser, critical hit!!!
+$username used Ice Fang on  $randuser, it was not very effective (
+$username used Discharge on  $randuser, it was super effective!
+$username used Misty Terrain on  $randuser, critical hit!!!
+$username used Blue Flare on  $randuser, it was not very effective (
+$username used Psycho Cut on  $randuser, it was super effective!
+$username used Haze on  $randuser, it was not very effective (
+$username used Wring Out on  $randuser, it was super effective!
+$username used Air Cutter on  $randuser, it was not very effective (
+$username used Magma Storm on  $randuser, it was super effective!
+$username used Confide on  $randuser, critical hit!!!
+$username used Attract on  $randuser, critical hit!!!
+$username used Power Split on  $randuser, critical hit!!!
+$username used Sharpen on  $randuser, critical hit!!!
+$username used Slam on  $randuser, critical hit!!!
+$username used Fling on  $randuser, it was super effective!
+$username used Calm Mind on  $randuser, critical hit!!!
+$username used Wonder Room on  $randuser, it was not very effective (
+$username used Recover on  $randuser, it was not very effective (
+$username used Vine Whip on  $randuser, it was not very effective (
+$username used String Shot on  $randuser, it was not very effective (
+$username used Petal Dance on  $randuser, it was super effective!
+$username used Bind on  $randuser, critical hit!!!
+$username used Psycho Cut on  $randuser, it was not very effective (
+$username used Power Swap on  $randuser, it was not very effective (
+$username used Aromatic Mist on  $randuser, critical hit!!!
+$username used Transform on  $randuser, it was super effective!
+$username used Sky Drop on  $randuser, it was super effective!
+$username used Swallow on  $randuser, critical hit!!!
+$username used Fire Pledge on  $randuser, it was super effective!
+$username used Will-O-Wisp on  $randuser, it was super effective!
+$username used Stomp on  $randuser, critical hit!!!
+$username used Jump Kick on  $randuser, it was not very effective (
+$username used Volt Switch on  $randuser, it was super effective!
+$username used Dragon Tail on  $randuser, it was super effective!
+$username used V-create on  $randuser, it was not very effective (
+$username used Nuzzle on  $randuser, critical hit!!!
+$username used Supersonic on  $randuser, critical hit!!!
+$username used Spiky Shield on  $randuser, it was super effective!
+$username used Icy Wind on  $randuser, it was not very effective (
+$username used Hyper Fang on  $randuser, critical hit!!!
+$username used Forest's Curse on  $randuser, critical hit!!!
+$username used Fling on  $randuser, it was not very effective (
+$username used Air Slash on  $randuser, it was not very effective (
+$username used Horn Attack on  $randuser, it was not very effective (
+$username used Entrainment on  $randuser, it was not very effective (
+$username used Steamroller on  $randuser, it was super effective!
+$username used Supersonic on  $randuser, it was not very effective (
+$username used Judgment on  $randuser, it was not very effective (
+$username used Leer on  $randuser, it was super effective!
+$username used Bullet Seed on  $randuser, it was super effective!
+$username used Aerial Ace on  $randuser, critical hit!!!
+$username used Rolling Kick on  $randuser, critical hit!!!
+$username used Psycho Boost on  $randuser, it was not very effective (
+$username used Minimize on  $randuser, it was not very effective (
+$username used Scary Face on  $randuser, it was super effective!
+$username used Magnet Rise on  $randuser, critical hit!!!
+$username used King's Shield on  $randuser, it was not very effective (
+$username used Rock Smash on  $randuser, it was not very effective (
+$username used Twister on  $randuser, critical hit!!!
+$username used Electrify on  $randuser, critical hit!!!
+$username used Grass Knot on  $randuser, it was super effective!
+$username used Slash on  $randuser, critical hit!!!
+$username used Water Shuriken on  $randuser, it was super effective!
+$username used Heart Swap on  $randuser, it was super effective!
+$username used Sky Uppercut on  $randuser, critical hit!!!
+$username used Struggle on  $randuser, it was not very effective (
+$username used Acid on  $randuser, it was super effective!
+$username used Low Sweep on  $randuser, critical hit!!!
+$username used Spider Web on  $randuser, it was not very effective (
+$username used Night Daze on  $randuser, it was not very effective (
+$username used Light Screen on  $randuser, critical hit!!!
+$username used Grass Knot on  $randuser, it was not very effective (
+$username used Struggle on  $randuser, it was super effective!
+$username used Fissure on  $randuser, it was not very effective (
+$username used Cross Chop on  $randuser, critical hit!!!
+$username used Power Whip on  $randuser, critical hit!!!
+$username used Poison Fang on  $randuser, critical hit!!!
+$username used Stone Edge on  $randuser, it was not very effective (
+$username used Earth Power on  $randuser, it was not very effective (
+$username used Sand Tomb on  $randuser, it was not very effective (
+$username used Storm Throw on  $randuser, critical hit!!!
+$username used Confusion on  $randuser, critical hit!!!
+$username used Skull Bash on  $randuser, it was super effective!
+$username used Focus Energy on  $randuser, it was not very effective (
+$username used Electro Ball on  $randuser, it was not very effective (
+$username used Sticky Web on  $randuser, critical hit!!!
+$username used Seed Bomb on  $randuser, critical hit!!!
+$username used Water Pulse on  $randuser, it was not very effective (
+$username used Sand Attack on  $randuser, critical hit!!!
+$username used Steam Eruption on  $randuser, it was super effective!
+$username used Psychic on  $randuser, it was super effective!
+$username used Parting Shot on  $randuser, it was super effective!
+$username used Drain Punch on  $randuser, it was not very effective (
+$username used Gyro Ball on  $randuser, it was super effective!
+$username used Thousand Arrows on  $randuser, critical hit!!!
+$username used Astonish on  $randuser, it was not very effective (
+$username used Powder on  $randuser, it was super effective!
+$username used Circle Throw on  $randuser, it was not very effective (
+$username used Torment on  $randuser, it was super effective!
+$username used Milk Drink on  $randuser, it was super effective!
+$username used Silver Wind on  $randuser, it was not very effective (
+$username used Pay Day on  $randuser, it was super effective!
+$username used Quick Guard on  $randuser, it was not very effective (
+$username used Stone Edge on  $randuser, critical hit!!!
+$username used Dragon Claw on  $randuser, it was super effective!
+$username used Quick Attack on  $randuser, it was not very effective (
+$username used Secret Sword on  $randuser, it was super effective!
+$username used Dazzling Gleam on  $randuser, it was not very effective (
+$username used Growl on  $randuser, it was super effective!
+$username used Topsy-Turvy on  $randuser, it was not very effective (
+$username used Growth on  $randuser, it was not very effective (
+$username used Safeguard on  $randuser, it was not very effective (
+$username used Topsy-Turvy on  $randuser, critical hit!!!
+$username used V-create on  $randuser, it was super effective!
+$username used Trump Card on  $randuser, critical hit!!!
+$username used Hail on  $randuser, critical hit!!!
+$username used Leaf Tornado on  $randuser, it was not very effective (
+$username used Pluck on  $randuser, it was not very effective (
+$username used Poison Tail on  $randuser, critical hit!!!
+$username used Ingrain on  $randuser, it was not very effective (
+$username used Lucky Chant on  $randuser, critical hit!!!
+$username used Slack Off on  $randuser, it was super effective!
+$username used Fusion Bolt on  $randuser, it was not very effective (
+$username used Mach Punch on  $randuser, it was not very effective (
+$username used Heavy Slam on  $randuser, it was not very effective (
+$username used Celebrate on  $randuser, critical hit!!!
+$username used Smog on  $randuser, it was super effective!
+$username used Dragon Rush on  $randuser, it was not very effective (
+$username used Dig on  $randuser, critical hit!!!
+$username used Leech Life on  $randuser, it was not very effective (
+$username used Fire Spin on  $randuser, it was super effective!
+$username used Dragon Claw on  $randuser, critical hit!!!
+$username used Rolling Kick on  $randuser, it was not very effective (
+$username used Aqua Tail on  $randuser, it was super effective!
+$username used Will-O-Wisp on  $randuser, critical hit!!!
+$username used Roar of Time on  $randuser, it was not very effective (
+$username used Sonic Boom on  $randuser, it was super effective!
+$username used Pain Split on  $randuser, it was super effective!
+$username used Swift on  $randuser, it was super effective!
+$username used Poison Jab on  $randuser, critical hit!!!
+$username used Heal Order on  $randuser, it was super effective!
+$username used Wide Guard on  $randuser, it was not very effective (
+$username used Bulk Up on  $randuser, critical hit!!!
+$username used Last Resort on  $randuser, it was not very effective (
+$username used Ally Switch on  $randuser, it was super effective!
+$username used Magic Coat on  $randuser, it was super effective!
+$username used Relic Song on  $randuser, it was super effective!
+$username used Fake Tears on  $randuser, it was not very effective (
+$username used Trick Room on  $randuser, it was not very effective (
+$username used Hold Back on  $randuser, it was super effective!
+$username used Crunch on  $randuser, critical hit!!!
+$username used Infestation on  $randuser, it was not very effective (
+$username used Stockpile on  $randuser, it was super effective!
+$username used Stealth Rock on  $randuser, it was not very effective (
+$username used Shell Smash on  $randuser, it was not very effective (
+$username used Fell Stinger on  $randuser, it was not very effective (
+$username used X-Scissor on  $randuser, it was not very effective (
+$username used Venoshock on  $randuser, it was not very effective (
+$username used Stockpile on  $randuser, critical hit!!!
+$username used Simple Beam on  $randuser, it was not very effective (
+$username used Tri Attack on  $randuser, critical hit!!!
+$username used Confuse Ray on  $randuser, critical hit!!!
+$username used Psycho Cut on  $randuser, critical hit!!!
+$username used Psybeam on  $randuser, critical hit!!!
+$username used Bonemerang on  $randuser, it was not very effective (
+$username used Triple Kick on  $randuser, it was super effective!
+$username used Whirlpool on  $randuser, it was super effective!
+$username used Fire Punch on  $randuser, it was not very effective (
+$username used Amnesia on  $randuser, critical hit!!!
+$username used Spikes on  $randuser, it was not very effective (
+$username used Poison Powder on  $randuser, it was super effective!
+$username used Heavy Slam on  $randuser, critical hit!!!
+$username used Poison Sting on  $randuser, it was super effective!
+$username used Rain Dance on  $randuser, it was not very effective (
+$username used Gyro Ball on  $randuser, it was not very effective (
+$username used Future Sight on  $randuser, it was super effective!
+$username used Acrobatics on  $randuser, it was not very effective (
+$username used Howl on  $randuser, it was super effective!
+$username used Bide on  $randuser, it was super effective!
+$username used Mud-Slap on  $randuser, it was not very effective (
+$username used Screech on  $randuser, it was not very effective (
+$username used Psycho Boost on  $randuser, critical hit!!!
+$username used Seismic Toss on  $randuser, critical hit!!!
+$username used Thousand Arrows on  $randuser, it was super effective!
+$username used Flower Shield on  $randuser, it was super effective!
+$username used Thunder Fang on  $randuser, it was super effective!
+$username used Ice Burn on  $randuser, it was super effective!
+$username used Dark Void on  $randuser, it was not very effective (
+$username used Mirror Shot on  $randuser, it was super effective!
+$username used Signal Beam on  $randuser, critical hit!!!
+$username used Cotton Spore on  $randuser, it was super effective!
+$username used Fury Swipes on  $randuser, it was not very effective (
+$username used Cut on  $randuser, it was not very effective (
+$username used Bolt Strike on  $randuser, it was not very effective (
+$username used Low Sweep on  $randuser, it was not very effective (
+$username used Worry Seed on  $randuser, it was not very effective (
+$username used Round on  $randuser, it was super effective!
+$username used Defense Curl on  $randuser, it was super effective!
+$username used Drill Run on  $randuser, it was not very effective (
+$username used Meditate on  $randuser, it was super effective!
+$username used Thunder Punch on  $randuser, it was not very effective (
+$username used Nature Power on  $randuser, critical hit!!!
+$username used Guard Split on  $randuser, it was super effective!
+$username used Knock Off on  $randuser, critical hit!!!
+$username used Sky Drop on  $randuser, it was not very effective (
+$username used Facade on  $randuser, it was not very effective (
+$username used Muddy Water on  $randuser, it was not very effective (
+$username used Smack Down on  $randuser, critical hit!!!
+$username used Head Charge on  $randuser, it was not very effective (
+$username used Pain Split on  $randuser, critical hit!!!
+$username used Aqua Jet on  $randuser, it was super effective!
+$username used Clear Smog on  $randuser, it was not very effective (
+$username used Bubble Beam on  $randuser, critical hit!!!
+$username used Fury Swipes on  $randuser, critical hit!!!
+$username used Roar on  $randuser, critical hit!!!
+$username used Heal Block on  $randuser, it was super effective!
+$username used Defend Order on  $randuser, it was super effective!
+$username used Glaciate on  $randuser, it was super effective!
+$username used Clamp on  $randuser, it was super effective!
+$username used Imprison on  $randuser, it was not very effective (
+$username used Vice Grip on  $randuser, it was super effective!
+$username used Fusion Flare on  $randuser, it was super effective!
+$username used Arm Thrust on  $randuser, it was super effective!
+$username used Forest's Curse on  $randuser, it was not very effective (
+$username used Frenzy Plant on  $randuser, critical hit!!!
+$username used Pin Missile on  $randuser, it was super effective!
+$username used Geomancy on  $randuser, it was super effective!
+$username used Block on  $randuser, it was not very effective (
+$username used Happy Hour on  $randuser, critical hit!!!
+$username used Extrasensory on  $randuser, it was super effective!
+$username used Ominous Wind on  $randuser, critical hit!!!
+$username used Magic Room on  $randuser, it was not very effective (
+$username used Geomancy on  $randuser, it was not very effective (
+$username used Zen Headbutt on  $randuser, critical hit!!!
+$username used Earth Power on  $randuser, it was super effective!
+$username used Secret Sword on  $randuser, it was not very effective (
+$username used Ingrain on  $randuser, it was super effective!
+$username used Double-Edge on  $randuser, it was not very effective (
+$username used Shadow Force on  $randuser, critical hit!!!
+$username used Swords Dance on  $randuser, it was super effective!
+$username used Fissure on  $randuser, critical hit!!!
+$username used Flash on  $randuser, it was not very effective (
+$username used Searing Shot on  $randuser, it was not very effective (
+$username used High Jump Kick on  $randuser, critical hit!!!
+$username used Draco Meteor on  $randuser, it was not very effective (
+$username used Slam on  $randuser, it was not very effective (
+$username used Sleep Powder on  $randuser, critical hit!!!
+$username used Roost on  $randuser, it was super effective!
+$username used Follow Me on  $randuser, critical hit!!!
+$username used Ion Deluge on  $randuser, it was not very effective (
+$username used Iron Head on  $randuser, it was not very effective (
+$username used Strength on  $randuser, critical hit!!!
+$username used Psychic on  $randuser, critical hit!!!
+$username used Poison Sting on  $randuser, critical hit!!!
+$username used Magical Leaf on  $randuser, critical hit!!!
+$username used Soft-Boiled on  $randuser, it was super effective!
+$username used Endure on  $randuser, it was super effective!
+$username used Captivate on  $randuser, it was super effective!
+$username used Hyperspace Hole on  $randuser, it was super effective!
+$username used Slack Off on  $randuser, it was not very effective (
+$username used Reversal on  $randuser, it was not very effective (
+$username used Psyshock on  $randuser, it was super effective!
+$username used Leaf Tornado on  $randuser, critical hit!!!
+$username used Roost on  $randuser, it was not very effective (
+$username used Magma Storm on  $randuser, critical hit!!!
+$username used Iron Defense on  $randuser, it was super effective!
+$username used Lick on  $randuser, it was super effective!
+$username used Wild Charge on  $randuser, critical hit!!!
+$username used Dragon Rage on  $randuser, it was not very effective (
+$username used Switcheroo on  $randuser, it was super effective!
+$username used Psycho Shift on  $randuser, it was not very effective (
+$username used Mind Reader on  $randuser, it was super effective!
+$username used Thunder Wave on  $randuser, critical hit!!!
+$username used Trick Room on  $randuser, it was super effective!
+$username used Mist Ball on  $randuser, it was super effective!
+$username used Swallow on  $randuser, it was not very effective (
+$username used Rock Wrecker on  $randuser, critical hit!!!
+$username used Belch on  $randuser, it was super effective!
+$username used Reflect on  $randuser, it was not very effective (
+$username used Metal Claw on  $randuser, it was not very effective (
+$username used Amnesia on  $randuser, it was super effective!
+$username used Jump Kick on  $randuser, it was super effective!
+$username used Rest on  $randuser, it was not very effective (
+$username used Rapid Spin on  $randuser, it was super effective!
+$username used Agility on  $randuser, it was not very effective (
+$username used Luster Purge on  $randuser, it was not very effective (
+$username used Super Fang on  $randuser, critical hit!!!
+$username used Drill Run on  $randuser, it was super effective!
+$username used Ice Fang on  $randuser, it was super effective!
+$username used Heart Stamp on  $randuser, critical hit!!!
+$username used Foul Play on  $randuser, it was super effective!
+$username used Steel Wing on  $randuser, critical hit!!!
+$username used Precipice Blades on  $randuser, it was not very effective (
+$username used Beat Up on  $randuser, critical hit!!!
+$username used Quiver Dance on  $randuser, it was not very effective (
+$username used Embargo on  $randuser, it was not very effective (
+$username used Acid Armor on  $randuser, it was super effective!
+$username used Odor Sleuth on  $randuser, it was super effective!
+$username used Swords Dance on  $randuser, it was not very effective (
+$username used Lovely Kiss on  $randuser, critical hit!!!
+$username used Smack Down on  $randuser, it was super effective!
+$username used Sucker Punch on  $randuser, critical hit!!!
+$username used Crafty Shield on  $randuser, it was not very effective (
+$username used Dragon Pulse on  $randuser, it was super effective!
+$username used Dark Void on  $randuser, it was super effective!
+$username used Sunny Day on  $randuser, it was super effective!
+$username used Bug Buzz on  $randuser, critical hit!!!
+$username used Thunder Punch on  $randuser, critical hit!!!
+$username used Close Combat on  $randuser, it was not very effective (
+$username used Natural Gift on  $randuser, it was not very effective (
+$username used Barrage on  $randuser, it was not very effective (
+$username used Stockpile on  $randuser, it was not very effective (
+$username used Flower Shield on  $randuser, critical hit!!!
+$username used Sand Tomb on  $randuser, it was super effective!
+$username used Quick Guard on  $randuser, it was super effective!
+$username used Razor Leaf on  $randuser, it was not very effective (
+$username used Flower Shield on  $randuser, it was not very effective (
+$username used Fake Tears on  $randuser, it was super effective!
+$username used Soak on  $randuser, it was super effective!
+$username used Glaciate on  $randuser, it was not very effective (
+$username used Steam Eruption on  $randuser, critical hit!!!
+$username used Wonder Room on  $randuser, critical hit!!!
+$username used Role Play on  $randuser, it was super effective!
+$username used Tail Slap on  $randuser, it was super effective!
+$username used Clear Smog on  $randuser, it was super effective!
+$username used Calm Mind on  $randuser, it was super effective!
+$username used Twineedle on  $randuser, critical hit!!!
+$username used Hypnosis on  $randuser, it was not very effective (
+$username used Mimic on  $randuser, critical hit!!!
+$username used False Swipe on  $randuser, it was super effective!
+$username used Stomp on  $randuser, it was super effective!
+$username used Mega Kick on  $randuser, it was not very effective (
+$username used Power Split on  $randuser, it was not very effective (
+$username used Heal Block on  $randuser, it was not very effective (
+$username used Kinesis on  $randuser, it was not very effective (
+$username used Snarl on  $randuser, it was not very effective (
+$username used Disable on  $randuser, it was not very effective (
+$username used Rage Powder on  $randuser, critical hit!!!
+$username used Ancient Power on  $randuser, it was super effective!
+$username used Follow Me on  $randuser, it was super effective!
+$username used Shadow Ball on  $randuser, it was not very effective (
+$username used Psych Up on  $randuser, it was super effective!
+$username used Lock-On on  $randuser, critical hit!!!
+$username used Baby-Doll Eyes on  $randuser, critical hit!!!
+$username used V-create on  $randuser, critical hit!!!
+$username used Mud Bomb on  $randuser, it was not very effective (
+$username used Bite on  $randuser, it was not very effective (
+$username used Earthquake on  $randuser, it was not very effective (
+$username used Grass Pledge on  $randuser, it was not very effective (
+$username used Oblivion Wing on  $randuser, it was super effective!
+$username used Bestow on  $randuser, it was super effective!
+$username used Baton Pass on  $randuser, it was not very effective (
+$username used Power Trick on  $randuser, it was not very effective (
+$username used High Jump Kick on  $randuser, it was super effective!
+$username used Odor Sleuth on  $randuser, it was not very effective (
+$username used Leaf Blade on  $randuser, critical hit!!!
+$username used Air Cutter on  $randuser, critical hit!!!
+$username used Acrobatics on  $randuser, it was super effective!
+$username used Ice Beam on  $randuser, it was not very effective (
+$username used Thousand Waves on  $randuser, critical hit!!!
+$username used Attack Order on  $randuser, it was not very effective (
+$username used Spit Up on  $randuser, it was not very effective (
+$username used Diamond Storm on  $randuser, critical hit!!!
+$username used Charge Beam on  $randuser, it was super effective!
+$username used Perish Song on  $randuser, it was not very effective (
+$username used Aqua Ring on  $randuser, it was super effective!
+$username used Feather Dance on  $randuser, it was super effective!
+$username used Magnet Rise on  $randuser, it was super effective!
+$username used Aurora Beam on  $randuser, it was super effective!
+$username used Toxic on  $randuser, it was not very effective (
+$username used Round on  $randuser, critical hit!!!
+$username used Headbutt on  $randuser, critical hit!!!
+$username used Helping Hand on  $randuser, critical hit!!!
+$username used Sludge on  $randuser, it was not very effective (
+$username used Water Spout on  $randuser, it was super effective!
+$username used Pluck on  $randuser, it was super effective!
+$username used Sleep Talk on  $randuser, critical hit!!!
+$username used Night Shade on  $randuser, it was super effective!
+$username used Quick Attack on  $randuser, it was super effective!
+$username used Roar on  $randuser, it was super effective!
+$username used Gastro Acid on  $randuser, it was not very effective (
+$username used Swords Dance on  $randuser, critical hit!!!
+$username used Moonlight on  $randuser, it was super effective!
+$username used Harden on  $randuser, it was not very effective (
+$username used Land's Wrath on  $randuser, it was not very effective (
+$username used Glare on  $randuser, critical hit!!!
+$username used Hold Hands on  $randuser, it was super effective!
+$username used Hyper Voice on  $randuser, it was super effective!
+$username used Tri Attack on  $randuser, it was not very effective (
+$username used Precipice Blades on  $randuser, it was super effective!
+$username used Reflect on  $randuser, critical hit!!!
+$username used Reflect Type on  $randuser, it was not very effective (
+$username used Vice Grip on  $randuser, it was not very effective (
+$username used Payback on  $randuser, it was not very effective (
+$username used Soak on  $randuser, critical hit!!!
+$username used Poison Tail on  $randuser, it was not very effective (
+$username used Tickle on  $randuser, it was not very effective (
+$username used Struggle on  $randuser, critical hit!!!
+$username used Substitute on  $randuser, it was not very effective (
+$username used Guard Split on  $randuser, critical hit!!!
+$username used Charge on  $randuser, it was not very effective (
+$username used Wood Hammer on  $randuser, critical hit!!!
+$username used Wild Charge on  $randuser, it was super effective!
+$username used Extreme Speed on  $randuser, critical hit!!!
+$username used Relic Song on  $randuser, it was not very effective (
+$username used Ion Deluge on  $randuser, critical hit!!!
+$username used Belch on  $randuser, critical hit!!!
+$username used Dark Void on  $randuser, critical hit!!!
+$username used Mist Ball on  $randuser, critical hit!!!
+$username used Protect on  $randuser, it was super effective!
+$username used Defog on  $randuser, critical hit!!!
+$username used Perish Song on  $randuser, it was super effective!
+$username used Teleport on  $randuser, it was super effective!
+$username used Hone Claws on  $randuser, it was not very effective (
+$username used Wish on  $randuser, critical hit!!!
+$username used Pound on  $randuser, it was super effective!
+$username used Electro Ball on  $randuser, it was super effective!
+$username used Encore on  $randuser, critical hit!!!
+$username used Wide Guard on  $randuser, it was super effective!
+$username used Muddy Water on  $randuser, critical hit!!!
+$username used Spit Up on  $randuser, critical hit!!!
+$username used Water Gun on  $randuser, critical hit!!!
+$username used Detect on  $randuser, it was not very effective (
+$username used Constrict on  $randuser, critical hit!!!
+$username used Force Palm on  $randuser, critical hit!!!
+$username used Petal Dance on  $randuser, it was not very effective (
+$username used Rototiller on  $randuser, it was not very effective (
+$username used Water Shuriken on  $randuser, it was not very effective (
+$username used Aromatic Mist on  $randuser, it was super effective!
+$username used Milk Drink on  $randuser, critical hit!!!
+$username used Flatter on  $randuser, it was super effective!
+$username used Water Pulse on  $randuser, critical hit!!!
+$username used Bone Club on  $randuser, critical hit!!!
+$username used Trump Card on  $randuser, it was super effective!
+$username used Camouflage on  $randuser, critical hit!!!
+$username used Lucky Chant on  $randuser, it was super effective!
+$username used Endure on  $randuser, it was not very effective (
+$username used Harden on  $randuser, critical hit!!!
+$username used Shadow Ball on  $randuser, critical hit!!!
+$username used Dizzy Punch on  $randuser, critical hit!!!
+$username used Shadow Claw on  $randuser, it was not very effective (
+$username used Facade on  $randuser, critical hit!!!
+$username used Surf on  $randuser, it was super effective!
+$username used Rock Climb on  $randuser, critical hit!!!
+$username used Fire Blast on  $randuser, critical hit!!!
+$username used Snore on  $randuser, critical hit!!!
+$username used Conversion 2 on  $randuser, it was super effective!
+$username used Rock Polish on  $randuser, it was not very effective (
+$username used Electrify on  $randuser, it was super effective!
+$username used Future Sight on  $randuser, it was not very effective (
+$username used Razor Shell on  $randuser, it was super effective!
+$username used Minimize on  $randuser, it was super effective!
+$username used Teeter Dance on  $randuser, it was not very effective (
+$username used Bite on  $randuser, it was super effective!
+$username used Cotton Spore on  $randuser, it was not very effective (
+$username used Dragon Breath on  $randuser, critical hit!!!
+$username used Hail on  $randuser, it was super effective!
