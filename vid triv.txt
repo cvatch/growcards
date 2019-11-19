@@ -12,8 +12,7 @@ Name the Video Game this quote is from: "Get over here!" 	## Mortal Kombat
 Name the Video Game this quote is from: "What is better? To be born good or to overcome your evil nature through great effort?" 	## Skyrim	## elder scrolls	## elder scrolls: skyrim				
 Name the Video Game this quote is from: "The right man in the wrong place can make all the difference in the world."	## Half-Life	## Half Life	## Half Life 2	## Half-Life 2			
 Name the Video Game this quote is from: "Stand in the ashes of a trillion dead souls, and asks the ghosts if honor matters. The silence is your answer." 	## Mass Effect 3	## Mass Effect					
-Name the Video Game this quote is from: "Bring me a bucket, and I'll show you a bucket!"	## Borderlands	## Borderlands 2					
-Name the Video Game this quote is from: "Wanting something does not give you the right to have it."	## Assassin’s Creed 2	## Assassin’s Creed					
+Name the Video Game this quote is from: "Bring me a bucket, and I'll show you a bucket!"	## Borderlands	## Borderlands 2	
 Name the Video Game this quote is from: "Even in dark times, we cannot relinquish the things that make us human."	## Metro 2033						
 Name the Video Game this quote is from: "How many are there in you? Whose hopes and dreams do you encompass? Could you but see the eyes in your own, the minds in your mind, you would see how much we share."	## Half-Life	## Half Life	## Half Life 2	## Half-Life 2			
 Name the Video Game this quote is from: "The healthy human mind doesn't wake up in the morning thinking this is its last day on Earth. But I think that's a luxury, not a curse. To know you're close to the end is a kind of freedom. Good time to take... inventory."	## Call of duty	## Modern Warfare	## call of duty: Modern Warfare	## Modern Warfare 2	## call of duty: modern warfare 2		
@@ -54,7 +53,6 @@ Name the Video Game this quote is from: "I miss the internet"	## Left 4 dead	## 
 Name the Video Game this quote is from: "Life is all about resolve. Outcome is secondary."	## okami						
 Name the Video Game this quote is from: "Stay awhile, and listen!"	## Diablo	## Diablo 2	## diablo II				
 Name the Video Game this quote is from: "Thank you Mario! But our Princess is in another castle!"	## mario	## super mario	## super mario bros				
-Name the Video Game this quote is from: "It's a-me, Mario!" 	## Assassin's Creed II  ## Assassin’s Creed 2	## Assassin’s Creed	## mario	## super mario 	## super mario bros	## super mario 64	## mario 64
 Name the Video Game this quote is from: "I WILL KILL YOUR DICKS!" 	## bulletstorm						
 Name the Video Game this quote is from: "What is a man? A miserable little pile of secrets." 	## castlevania	## castlevania: symphony of the night					
 Name the Video Game this quote is from: "My brothers and sisters... I will see you again. Someday. You've given them back to me.	## destiny						
@@ -65,7 +63,6 @@ Name the Video Game this quote is from: "We both said a lot of things that you'r
 Name the Video Game this quote is from: "Snake? Snake? SNAAAAAAAAKE!!!"	## metal gear solid	## metal gear solid 2					
 Name the Video Game this quote is from: "Wake me when you need me."	## halo	## Halo 3					
 Name the Video Game this quote is from: "Grass grows, birds fly, sun shines, and brother, I hurt people." 	## team fortress	## team fortress 2					
-Name the Video Game this quote is from: "Requiescat in pace."	## Assassin’s Creed 2	## Assassin’s Creed					
 Name the Video Game this quote is from: "Every puzzle has an answer."	## Professor Layton and the Curious Village						
 Name the Video Game this quote is from: "Hey! Listen!" 	## ocarina of time	## zelda	## legends of zelda	## the legends of zelda	## zelda	## the legends of zelda	## legends of zelda
 Name the Video Game this quote is from: "I used to be an adventurer like you, until I took an arrow to the knee." 	## elder  scrolls	## skyrim					
@@ -173,7 +170,7 @@ What Pokémon does this Pokédex entry  belong to: It remembers every dream it eat
 What Pokémon does this Pokédex entry  belong to: The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on. 	##  Lampent
 What Pokémon does this Pokédex entry  belong to: Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry. 	##  yamask
 What Pokémon does this Pokédex entry  belong to: Although this Pokémon is the very picture of elegance and beauty while swimming, it is also cruel. When it spots prey, this Pokémon inserts its thin mouth into the prey's body and drains the prey of its body fluids. 	##  Gorebyss
-What Pokémon does this Pokédex entry  belong to: It is whispered that any child who mistakes Drifloon for a balloon and holds on to it could wind up missing. 	##  Drifloon
+What Pokémon does this Pokédex entry  belong to: It is whispered that any child who mistakes this pokemon for a balloon and holds on to it could wind up missing. 	##  Drifloon
 What Pokémon does this Pokédex entry  belong to: If a traveller is going through a desert in the thick of night, this Pokémon will follow in a ragtag group. The Pokémon are biding their time, waiting for the traveler to tire and become incapable of moving. 	##  Cacturne
 What Pokémon does this Pokédex entry  belong to: Its tongue is made of gas. If licked, its victim starts shaking constantly until death eventually comes. 	##  Haunter
 What Pokémon does this Pokédex entry  belong to: An abandoned plush doll became this Pokémon. They are said to live in garbage dumps and wander about in search of the children that threw them away 	##  Banette
@@ -191,3 +188,53 @@ What Pokémon does this Pokédex entry  belong to: It freezes hikers who have come
 What Pokémon does this Pokédex entry  belong to: To protect its Trainer, it will expend all its psychic power to create a small black hole 	##  Gardevoir
 What Pokémon does this Pokédex entry  belong to: For some reason, it likes to land on people's heads softly and act like it's a hat. 	##  Swablu
 What Pokémon does this Pokédex entry  belong to: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum 	##  Altaria
+In Mortal Kombat 3, which character’s Animality was a  Vulture	##  Baraka
+In Mortal Kombat 3, which character’s Animality was a  Shark	##  Cyrax
+In Mortal Kombat 3, which character’s Animality was a  Frog	##  Ermac
+In Mortal Kombat 3, which character’s Animality was a  Cat	##  Jade
+In Mortal Kombat 3, which character’s Animality was a  Lion	##  Jax
+In Mortal Kombat 3, which character’s Animality was a  Kangaroo	##  Johnny Cage
+In Mortal Kombat 3, which character’s Animality was a  Rhinoceros 	##  Kabal  
+In Mortal Kombat 3, which character’s Animality was a  Giant Tarantula  	##  Kano  
+In Mortal Kombat 3, which character’s Animality was a  Rabbit  	##  Kitana 
+In Mortal Kombat 3, which character’s Animality was a  Cheetah  	##  Kung Lao 
+In Mortal Kombat 3, which character’s Animality was a  Dragon  	##  Liu Kang  
+In Mortal Kombat 3, which character’s Animality was a  Skunk 	##  Mileena 
+In Mortal Kombat 3, which character’s Animality was a  Wolf 	##  Nightwolf  
+In Mortal Kombat 3, which character’s Animality was an Anteater  	##  Noob Saibot 
+In Mortal Kombat 3, which character’s Animality was an  Electric eel 	##  Raiden 
+In Mortal Kombat 3, which character’s Animality was a  Small Elephant 	##  Rain  
+In Mortal Kombat 3, which character’s Animality was a  Chimpanzee  	##  Reptile 
+In Mortal Kombat 3, which character’s Animality was a  Penguin 	##  Scorpion 
+In Mortal Kombat 3, which character’s Animality was a  Giant Bat  	##  Sektor  
+In Mortal Kombat 3, which character’s Animality was a  Cobra  	##  Shang Tsung  
+In Mortal Kombat 3, which character’s Animality was a  Giant Scorpion 	##  Sheeva 
+In Mortal Kombat 3, which character’s Animality was a  Giant Hornet 	##  Sindel  
+In Mortal Kombat 3, which character’s Animality was a  Bull 	##  Smoke 
+In Mortal Kombat 3, which character’s Animality was a  Porcupine  	##  Smoke 
+In Mortal Kombat 3, which character’s Animality was a  Hawk 	##  Sonya Blade  
+In Mortal Kombat 3, which character’s Animality was a  Tyrannosaurus Rex 	##  Stryker  
+In Mortal Kombat 3, which character’s Animality was a  Polar Bear 	##  Sub-Zero  
+In Mortal Kombat Trilogy, which character “Gives their opponent a birthday gift.“ as their Friendship Fatality?	##  Baraka 
+In Mortal Kombat Trilogy, which character “Gives an autographed photo, which reads "To my best fan!” “ as their Friendship Fatality?	##  Johnny Cage 
+In Mortal Kombat Trilogy, which character “Covers themselves up in a snowman “ as their Friendship Fatality?	##  Sub-Zero 
+In Mortal Kombat Trilogy, which character “Dances the Charleston “ as their Friendship Fatality?	##  Cyrax 
+In Mortal Kombat Trilogy, which character “levitates the opponent who then transforms into a rabbit “ as their Friendship Fatality?	##  Ermac 
+In Mortal Kombat Trilogy, which character “Pogo-jumps with their staff “ as their Friendship Fatality?	##  Jade 
+In Mortal Kombat Trilogy, which character “Skips rope “ as their Friendship Fatality?	##  Jax
+In Mortal Kombat Trilogy, which character “Uses one of their hookswords to roast a marshmallow “ as their Friendship Fatality?	##  Kabal 
+In Mortal Kombat Trilogy, which character “Blows a bubble with gum, and it pops on their face “ as their Friendship Fatality?	##  Kano 
+In Mortal Kombat Trilogy, which character “Blows bubbles at the opponent. “ as their Friendship Fatality?	##  Kitana 
+In Mortal Kombat Trilogy, which character “Throws their hat off-screen like a Frisbee while a dog follows it to fetch “ as their Friendship Fatality?	##  Kung Lao 
+In Mortal Kombat Trilogy, which character “makes a shadow puppet of the MK dragon symbol “ as their Friendship Fatality?	##  Liu Kang 
+In Mortal Kombat Trilogy, which character “Looks at their unmasked face at a mirror, which shatters “ as their Friendship Fatality?	##  Mileena 
+In Mortal Kombat Trilogy, which character “Performs a Raidentransformation, as a Mortal Kombat II arcade falls from the sky behind him “ as their Friendship Fatality?	##  Nightwolf 
+In Mortal Kombat Trilogy, which character “Goes bowling, getting a split. Shao Kahn is heard saying "That was pathetic" afterwards “ as their Friendship Fatality?	##  Noob Saibot 
+In Mortal Kombat Trilogy, which character “Summons raindrops “ as their Friendship Fatality?	##  Rain 
+In Mortal Kombat Trilogy, which character “Hits a strength testing pole with a mallet, causing the bell to ring. “ as their Friendship Fatality?	##  Sektor 
+In Mortal Kombat Trilogy, which character “Turns into the main character of the retro game Joust. “ as their Friendship Fatality?	##  Shang Tsung 
+In Mortal Kombat Trilogy, which character “Spins plates on sticks held with each of their hands “ as their Friendship Fatality?	##  Sheeva 
+In Mortal Kombat Trilogy, which character “Kicks a football and states, "That was fun!" “ as their Friendship Fatality?	##  Sindel 
+In Mortal Kombat Trilogy, which character “Blows a loud horn produced from their chest plate “ as their Friendship Fatality?	##  Smoke 
+In Mortal Kombat Trilogy, which character “A sign that reads "No Smoking" falls from the sky, causing their own smoke emission to cease, then looks at the ground and says, "Aw..." “ as their Friendship Fatality?	##  Smoke 
+In Mortal Kombat Trilogy, which character “A row of flowers grow from the ground near their feet. “ as their Friendship Fatality?	##  Sonya blade  

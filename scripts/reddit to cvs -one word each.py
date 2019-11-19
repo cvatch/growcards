@@ -11,7 +11,7 @@ import datetime as dt
 import re
 
 reddit = praw.Reddit(client_id='mOgxLW4KmZgoQg',                      client_secret='YGqzJnyG_sVwvOvWAw41dyrT6V0',                      user_agent='spreader',                      username='cvatch',                      password='')
-subreddit = reddit.subreddit('onewordeach')
+subreddit = reddit.subreddit('ScenesFromAHat')
 top_subreddit = subreddit.top(limit=1000)
 topics_dict = { "title":[], "body":[],}
 for submission in top_subreddit:
@@ -26,7 +26,7 @@ for submission in top_subreddit:
     
 topics_data = pd.DataFrame(topics_dict)
 
-topics_data.to_csv('one word each 0926.csv', index=False) 
+topics_data.to_csv('scenes.csv', index=False)
 
 
 # In[ ]:
