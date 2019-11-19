@@ -96,6 +96,11 @@ Name the Video Game this quote is from: "I've struggled a long time with survivi
 Name the Video Game this quote is from: "You are the bad guy, and I'll show you how this system deals with bad guys!" ## A Hat In Time ## Hat in Time ## AHiT
 Name the Video Game this quote is from: "DAMN YOU AND YOUR EMPIRE!" ## Galak-Z ## Galak Z
 Name the Video Game this quote is from: "Let's climb out of here, together." # Celeste
+Name the Video Game this quote is from: "This is the story, of a man named Stanley." ## The Stanley Parable ## Stanley Parable
+Name the Video Game this quote is from: "ELEEEEEEIIIIISEEEEEEEE!" ## Sonic 06 # Sonic 2006 ## Sonic The Hedgehog
+Name the Video Game this quote is from: "Yes. You failed. But... there is one more thing I would like to conduct. Electricty. Through you." ## Lego Dimensions
+Name the Video Game this quote is from: "Hello, my name is doctor Glenn Pierce, and I'd like to talk to you about being special." ## Superliminal ## Super liminal
+Name the Video Game this quote is from: "Your life will always be a struggle, and you will always have problems." ## Superliminal ## Super liminal
 Pac-Man ghost enemies are dubbed Blinky, Pinky and Inky. What is the name of the fourth member of the crew?	##  Clyde	
 Pac-Man ghost enemies are dubbed Blinky, Pinky and clyde. What is the name of the fourth member of the crew?	##  inky	
 What is the only videogame franchise originating in the 1970's to have thus far generated over $1 billion in revenue?	##  Space Invaders 	
@@ -154,8 +159,8 @@ What was Princess Peach's original name?	## Princess Toadstool
 What does the P-Wing stand for in the games?	## Paratroopa Wing	
 Which character is not a Koopaling? Lemmy, Roy, Iggy, or Sid?	## Sid	
 Who is in love with Sonic? 	## Amy 	
-What is Sonic's favorite food? 	## Chilly Dogs 	
-What is Sonic's secret hobby? 	## DJ 	
+What is Sonic's favorite food? 	## Chilly Dogs 	## Chili Dogs
+What is Sonic's secret hobby? 	## DJ ## Break dancing ## Breakdancing ## Disk Jockey 	
 Which movie includes the line“What are you telling me? That I can dodge bullets?"	## matrix	## the matrix
 “In space, no one can hear you scream"is the tagline for which classic film starring Sigourney Weaver?	## Alien	
 What is the license plate of the DeLorean in the Back to the Future films?	## 88timego 	
@@ -173,7 +178,8 @@ What is the Pan Galactic Gargle Blaster 	## drink	## a drink
 Which Mario Kart game was NOT made by Nintendo ## Mario Kart Arcade GP ## Mario Kart Arcade ##MKAGP
 What Primal Evolution Pokemon can NEVER be obtained through normal means? ##Dialga ##Primal Dialga
 How many levels are in the game Pac-Man? ##256 ##Two Hundred and Fifty Six ##Two Hundred Fifty Six
-What is Sonic's OTHER secret hobby? 	## Breakdancing ## Break dancing
+Who was the creator of the game Rez? ##Tetsuya Mizuguchi ## Tetsuya ## Mizuguchi
+What was the first game Sonic the Hedgehog appeared in? ## Rad Mobile
 What Pokémon does this Pokédex entry  belong to: It remembers every dream it eats. It rarely eats the dreams of adults because children's are much tastier. 	##  Drowzee
 What Pokémon does this Pokédex entry  belong to: The spirits it absorbs fuel its baleful fire. It hangs around hospitals waiting for people to pass on. 	##  Lampent
 What Pokémon does this Pokédex entry  belong to: Each of them carries a mask that used to be its face when it was human. Sometimes they look at it and cry. 	##  yamask
@@ -196,7 +202,7 @@ What Pokémon does this Pokédex entry  belong to: It freezes hikers who have co
 What Pokémon does this Pokédex entry  belong to: To protect its Trainer, it will expend all its psychic power to create a small black hole 	##  Gardevoir
 What Pokémon does this Pokédex entry  belong to: For some reason, it likes to land on people's heads softly and act like it's a hat. 	##  Swablu
 What Pokémon does this Pokédex entry  belong to: If it bonds with a person, it will gently envelop the friend with its soft wings, then hum 	##  Altaria
-What Pokémon does this Pokédex entry  belong to: Should you feel yourself attacked by a sudden chill, it is evidence of an approaching Gengar. There is no escaping it. Give up. ##  Gengar
+What Pokémon does this Pokédex entry  belong to: It apparently wishes for a traveling companion. Since it was once human itself, it tries to create one by taking the lives of other humans. ##  Gengar
 What Pokémon does this Pokédex entry  belong to: A touch from anyone except a known friend sends it into a surging frenzy. It's an incredibly dangerous Pokémon. ##  Stufful
 What Pokémon does this Pokédex entry  belong to: Its shell is filled with its soft innards. It doesn't move much because of the risk it might carelessly spill its innards out. ##  Metapod
 What Pokémon does this Pokédex entry  belong to: Stories go that it grabs the hands of small children and drags them away to the afterlife. It dislikes heavy children. ## Drifloon
